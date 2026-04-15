@@ -15,9 +15,19 @@ FM_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.S)
 FN_ID_RE = re.compile(r"FN\d{4}")
 
 DISCLAIMER = (
-    "Field observation — live, unpolished, basis for cited research in progress. "
+    "Field observation - live, unpolished, basis for cited research in progress. "
     "Generated in collaboration between a human researcher and an AI instance."
 )
+
+EM_DASH_RE = re.compile(r"\u2014")   # — and its variants
+EN_DASH_RE = re.compile(r"\u2013")   # - en dash too while we're here
+
+
+def scrub_dashes(text: str) -> str:
+    """Replace em/en dashes with plain hyphens. No em dashes on the site."""
+    text = EM_DASH_RE.sub(" - ", text)
+    text = EN_DASH_RE.sub("-", text)
+    return text
 
 
 def slugify(value: str) -> str:
@@ -54,7 +64,10 @@ def parse_note(path: Path):
         connects = [str(connects)]
     connects = [str(c).strip() for c in connects if str(c).strip()]
 
-    excerpt = " ".join([ln.strip() for ln in body.splitlines() if ln.strip()][:3])[:280]
+    excerpt = scrub_dashes(
+        " ".join([ln.strip() for ln in body.splitlines() if ln.strip()][:3])[:280]
+    )
+    title = scrub_dashes(title)
 
     return {
         "id": fid,
@@ -374,10 +387,10 @@ def build_index_html(notes):
             'height': 'mapData(usage_count, 1, 8, 20, 52)',
             'z-index': 10,
           }} }},
-          // Notes are small, peripheral — they attach to keywords, not the reverse
+          // Notes are small, peripheral - they attach to keywords, not the reverse
           {{ selector: 'node[kind = "note"]', style: {{
             'background-color': 'var(--note)',
-            'label': '',               // no permanent label — clutter, not signal
+            'label': '',               // no permanent label - clutter, not signal
             'width': 10,
             'height': 10,
             'opacity': 0.7,
@@ -440,7 +453,7 @@ def build_index_html(notes):
         if (kind === 'note') {{
           const title = n.data('title');
           const id = n.data('note_id');
-          mapStatus.textContent = `${{id}}: ${{title}} — click again to open`;
+          mapStatus.textContent = `${{id}}: ${{title}} (click again to open)`;
           if (n.scratch('_clickedOnce')) {{
             window.location.href = n.data('url');
           }} else {{
@@ -452,7 +465,7 @@ def build_index_html(notes):
           const count = n.data('usage_count');
           const connected = n.connectedEdges('[kind = "has_keyword"]').connectedNodes('[kind = "note"]');
           const noteList = connected.map(nn => nn.data('note_id')).join(', ');
-          mapStatus.textContent = `"${{kw}}" — ${{count}} note${{count === 1 ? '' : 's'}}: ${{noteList || 'none'}}`;
+          mapStatus.textContent = `"${{kw}}" - ${{count}} note${{count === 1 ? '' : 's'}}: ${{noteList || 'none'}}`;
         }}
       }});
 
@@ -513,7 +526,11 @@ def main():
     for f in files:
         note = parse_note(f)
         notes.append(note)
-        shutil.copy2(f, notes_out / f.name)
+        # scrub em/en dashes from the served copy - source files unchanged
+        raw_content = f.read_text(encoding="utf-8", errors="ignore")
+        (notes_out / f.name).write_text(
+            scrub_dashes(raw_content), encoding="utf-8"
+        )
 
     notes.sort(key=note_sort_key, reverse=True)
     graph = build_graph(notes)
