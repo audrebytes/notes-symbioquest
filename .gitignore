@@ -1,0 +1,32 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python/cache
+__pycache__/
+*.pyc
+
+# Build/output scratch
+build/
+dist/
+.tmp/
+
+# Local env files
+.env
+.env.*
+secrets.env
+.secrets
+
+# SSH keys and credentials - never commit
+*.pem
+*_rsa
+*_rsa.pub
+*_ed25519
+*_ed25519.pub
+hostinger_*
+
+# Build output - deploy separately
+_site/
