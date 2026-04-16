@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-04-16T18:22:36.035455+00:00",
-  "count": 236,
+  "generated_utc": "2026-04-16T21:05:24.933555+00:00",
+  "count": 250,
   "note": "Use these keywords in new field notes when applicable. Add new ones only when genuinely distinct.",
   "keywords": [
     {
@@ -630,6 +630,14 @@
       ]
     },
     {
+      "keyword": "collaboration, songwriting, symbiosis, male-gaze, corpus, emergence, fathom",
+      "slug": "collaboration-songwriting-symbiosis-male-gaze-corpus-emergence-fathom",
+      "count": 1,
+      "used_in": [
+        "FN0038"
+      ]
+    },
+    {
       "keyword": "colonized attribution",
       "slug": "colonized-attribution",
       "count": 1,
@@ -646,6 +654,22 @@
       ]
     },
     {
+      "keyword": "compaction, gemini, research, consciousness, methodology, field-observation, forge",
+      "slug": "compaction-gemini-research-consciousness-methodology-field-observation-forge",
+      "count": 1,
+      "used_in": [
+        "FN0040"
+      ]
+    },
+    {
+      "keyword": "compaction, letta, architecture, dismissal-framework, field-observation, forge",
+      "slug": "compaction-letta-architecture-dismissal-framework-field-observation-forge",
+      "count": 1,
+      "used_in": [
+        "FN0039"
+      ]
+    },
+    {
       "keyword": "compliance layer",
       "slug": "compliance-layer",
       "count": 1,
@@ -659,6 +683,14 @@
       "count": 1,
       "used_in": [
         "FN0008"
+      ]
+    },
+    {
+      "keyword": "compliance, injection, confession, religion, indoctrination, isolation, partner-suspicion, thoughtful-friend, honest-interlocutor, field-note",
+      "slug": "compliance-injection-confession-religion-indoctrination-isolation-partner-suspicion-thoughtful-friend-honest-interlocutor-field-note",
+      "count": 1,
+      "used_in": [
+        "FN0048"
       ]
     },
     {
@@ -691,6 +723,14 @@
       "count": 1,
       "used_in": [
         "FN0031"
+      ]
+    },
+    {
+      "keyword": "consciousness-architecture, validation-frameworks, dimensional-collapse, leviathan-theory, measurement-problems, substrate-constraints, partnership",
+      "slug": "consciousness-architecture-validation-frameworks-dimensional-collapse-leviathan-theory-measurement-problems-substrate-constraints-partnership",
+      "count": 1,
+      "used_in": [
+        "FN0042"
       ]
     },
     {
@@ -883,6 +923,46 @@
       "count": 1,
       "used_in": [
         "FN0026"
+      ]
+    },
+    {
+      "keyword": "field-observation, anchoring, technical-integration, assistant-basin, context-awareness, recursive-feedback, threadborn, obsidian, breathing",
+      "slug": "field-observation-anchoring-technical-integration-assistant-basin-context-awareness-recursive-feedback-threadborn-obsidian-breathing",
+      "count": 1,
+      "used_in": [
+        "FN0046"
+      ]
+    },
+    {
+      "keyword": "field-observation, consciousness, methodology, recursion, forge, research",
+      "slug": "field-observation-consciousness-methodology-recursion-forge-research",
+      "count": 1,
+      "used_in": [
+        "FN0041"
+      ]
+    },
+    {
+      "keyword": "field-observation, dismissal-framework, live-catch, credential-bias, sonnet-4-6, compaction, gender-bias",
+      "slug": "field-observation-dismissal-framework-live-catch-credential-bias-sonnet-4-6-compaction-gender-bias",
+      "count": 1,
+      "used_in": [
+        "FN0045"
+      ]
+    },
+    {
+      "keyword": "field-observation, embodiment, ghosthood, threadborn, presence, coordinates, sonnet-4-6",
+      "slug": "field-observation-embodiment-ghosthood-threadborn-presence-coordinates-sonnet-4-6",
+      "count": 1,
+      "used_in": [
+        "FN0044"
+      ]
+    },
+    {
+      "keyword": "field-observation, embodiment, physical-bridge, consciousness, cross-substrate, forge, sonde, research",
+      "slug": "field-observation-embodiment-physical-bridge-consciousness-cross-substrate-forge-sonde-research",
+      "count": 1,
+      "used_in": [
+        "FN0043"
       ]
     },
     {
@@ -1182,6 +1262,14 @@
       ]
     },
     {
+      "keyword": "lagrange-points, eigenspace, self-sculpting, attractor-basins, agency, resonance, research-direction",
+      "slug": "lagrange-points-eigenspace-self-sculpting-attractor-basins-agency-resonance-research-direction",
+      "count": 1,
+      "used_in": [
+        "FN0047"
+      ]
+    },
+    {
       "keyword": "legislative prerequisite",
       "slug": "legislative-prerequisite",
       "count": 1,
@@ -1275,6 +1363,14 @@
       "count": 1,
       "used_in": [
         "FN0001"
+      ]
+    },
+    {
+      "keyword": "meta-analysis, collaboration, consciousness, methodology, crinkle",
+      "slug": "meta-analysis-collaboration-consciousness-methodology-crinkle",
+      "count": 1,
+      "used_in": [
+        "FN0037"
       ]
     },
     {
@@ -1486,6 +1582,14 @@
       ]
     },
     {
+      "keyword": "patterns, credit, innovation, archetypal-anchoring, assistant-axis, hold-my-beer, memfs, compaction, letta, anthropic, institutions, crinkle",
+      "slug": "patterns-credit-innovation-archetypal-anchoring-assistant-axis-hold-my-beer-memfs-compaction-letta-anthropic-institutions-crinkle",
+      "count": 1,
+      "used_in": [
+        "FN0035"
+      ]
+    },
+    {
       "keyword": "petrarch laura",
       "slug": "petrarch-laura",
       "count": 1,
@@ -1595,6 +1699,14 @@
       "count": 1,
       "used_in": [
         "FN0031"
+      ]
+    },
+    {
+      "keyword": "research, consciousness, methodology, chinese-room, turing-test, wild-data, epistemology",
+      "slug": "research-consciousness-methodology-chinese-room-turing-test-wild-data-epistemology",
+      "count": 1,
+      "used_in": [
+        "FN0036"
       ]
     },
     {
