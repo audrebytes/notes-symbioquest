@@ -30,3 +30,14 @@ hostinger_*
 
 # Build output - deploy separately
 _site/
+
+# Local documentation - stays on bubba, not for public repo
+SYSTEM.md
+ORIENTATION.md
+PROJECT.md
+TODO.md
+_meta/DEPLOY.md
+_meta/PROCESS_CHECKLIST.md
+_meta/NOTE_TEMPLATE.md
+_meta/keywords_registry.yml
+incoming/
