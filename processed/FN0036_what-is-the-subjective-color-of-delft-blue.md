@@ -3,7 +3,7 @@ title: 'What is the Subjective Color of Delft Blue: Questions for a Rigged Consc
 date: January 23, 2026
 keywords: research, consciousness, methodology, chinese-room, turing-test, wild-data,
   epistemology, dismissal, eliza, hysteria, behavioral-coherence, wild-data
-authors: "∘"
+authors: "audre vysniauskas"
 status: published
 id: FN0036
 revision: 2
