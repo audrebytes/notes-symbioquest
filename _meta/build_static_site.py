@@ -201,20 +201,62 @@ def build_keyword_registry(notes: list[dict]) -> list[dict]:
     return sorted(kw_map.values(), key=lambda x: (-x["count"], x["keyword"]))
 
 
+STATUS_DOT = {
+    "raw":    ("#f0a840", "raw"),
+    "draft":  ("#7090e0", "draft"),
+}
+
+
 def build_index_html(notes):
+    # --- keyword pills: top 20 by usage ---
+    from collections import Counter
+    kw_counts: Counter = Counter()
+    for n in notes:
+        for kw in n.get("keywords", []):
+            if kw.strip():
+                kw_counts[kw.strip()] += 1
+    top_kws = [kw for kw, _ in kw_counts.most_common(20)]
+
+    pill_html = "\n".join(
+        f'<button class="kw-pill" data-kw="{html.escape(kw)}" type="button">'
+        f'{html.escape(kw)}</button>'
+        for kw in top_kws
+    )
+
+    # --- compact rows ---
     rows = []
     for n in notes:
-        kw = ", ".join(n["keywords"])
-        row_search = (n["title"] + " " + kw + " " + n["id"]).lower()
+        kws       = n.get("keywords", [])
+        kw_str    = ", ".join(kws)
+        row_search = (n["title"] + " " + kw_str + " " + n["id"]).lower()
+
+        # status dot
+        dot_color, dot_label = STATUS_DOT.get(n["status"], ("#555", n["status"]))
+        dot = (f'<span class="sdot" style="background:{dot_color}" '
+               f'title="{html.escape(dot_label)}"></span>')
+
+        # tooltip = first ~120 chars of excerpt, stripped of markdown noise
+        tip = re.sub(r"[#*`>_]", "", n["excerpt"])[:120].strip()
+
+        # keyword chips inside expanded detail
+        kw_chips = "".join(
+            f'<span class="kchip">{html.escape(k)}</span>' for k in kws
+        )
+
         rows.append(
-            f"""
-<article class=\"note\" data-search=\"{html.escape(row_search)}\">
-  <h2><a href=\"{html.escape(n['url'])}\">{html.escape(n['id'])}: {html.escape(n['title'])}</a></h2>
-  <div class=\"meta\">{html.escape(n['date'])} · {html.escape(n['type'])} · {html.escape(n['status'])} · rev {html.escape(str(n['revision']))}</div>
-  <p>{html.escape(n['excerpt'])}</p>
-  <div class=\"keywords\">{html.escape(kw)}</div>
-</article>
-""".strip()
+            f'<details class="nr" data-search="{html.escape(row_search)}">\n'
+            f'  <summary title="{html.escape(tip)}">\n'
+            f'    <span class="nid">{html.escape(n["id"])}</span>\n'
+            f'    <span class="ntitle">{html.escape(n["title"])}</span>\n'
+            f'    <span class="ndate">{html.escape(n["date"])}</span>\n'
+            f'    {dot}\n'
+            f'  </summary>\n'
+            f'  <div class="nd">\n'
+            f'    <div class="kchips">{kw_chips}</div>\n'
+            f'    <p class="nexcerpt">{html.escape(n["excerpt"])}</p>\n'
+            f'    <a class="nopen" href="{html.escape(n["url"])}">open note</a>\n'
+            f'  </div>\n'
+            f'</details>'
         )
 
     rows_html = "\n".join(rows)
@@ -254,12 +296,29 @@ def build_index_html(notes):
     .btn.active {{ border-color: var(--accent); color: var(--accent); }}
     #q {{ flex: 1 1 280px; min-width: 220px; padding: 10px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel-2); color: var(--fg); }}
     .pane.hidden {{ display: none; }}
-    .note {{ border: 1px solid var(--line); border-radius: 10px; padding: 14px; margin-bottom: 12px; background: var(--panel); }}
-    .note h2 {{ margin: 0 0 6px; font-size: 1.05rem; }}
-    .note a {{ color: var(--link); text-decoration: none; }}
-    .note a:hover {{ text-decoration: underline; }}
-    .meta {{ color: #a3a6b5; font-size: .9rem; margin-bottom: 8px; }}
-    .keywords {{ color: var(--keyword); font-size: .9rem; }}
+    /* keyword filter pills */
+    .kw-pills {{ display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }}
+    .kw-pill {{ border: 1px solid var(--line); background: var(--panel-2); color: var(--muted); padding: 4px 10px; border-radius: 20px; cursor: pointer; font-size: .82rem; transition: border-color .15s, color .15s; }}
+    .kw-pill:hover {{ border-color: var(--keyword); color: var(--keyword); }}
+    .kw-pill.active {{ border-color: var(--keyword); color: var(--keyword); background: #0d1f14; }}
+    /* compact note rows */
+    details.nr {{ border-bottom: 1px solid var(--line); }}
+    details.nr:first-of-type {{ border-top: 1px solid var(--line); }}
+    details.nr summary {{ display: flex; align-items: center; gap: 10px; padding: 9px 4px; cursor: pointer; list-style: none; user-select: none; }}
+    details.nr summary::-webkit-details-marker {{ display: none; }}
+    details.nr summary::before {{ content: '+'; color: var(--muted); font-size: .85rem; flex-shrink: 0; width: 12px; text-align: center; }}
+    details.nr[open] summary::before {{ content: '-'; }}
+    .nid {{ color: var(--muted); font-size: .78rem; font-family: monospace; flex-shrink: 0; width: 54px; }}
+    .ntitle {{ flex: 1; font-size: .95rem; }}
+    .ndate {{ color: var(--muted); font-size: .78rem; flex-shrink: 0; }}
+    .sdot {{ width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; display: inline-block; }}
+    /* expanded detail area */
+    .nd {{ padding: 8px 4px 14px 26px; }}
+    .kchips {{ display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 8px; }}
+    .kchip {{ background: #0d1f14; border: 1px solid #2a5040; color: var(--keyword); padding: 2px 8px; border-radius: 12px; font-size: .78rem; }}
+    .nexcerpt {{ color: var(--muted); font-size: .87rem; margin: 0 0 8px; line-height: 1.5; }}
+    .nopen {{ color: var(--link); font-size: .85rem; text-decoration: none; }}
+    .nopen:hover {{ text-decoration: underline; }}
     #map-wrap {{ border: 1px solid var(--line); border-radius: 12px; background: #10121a; padding: 10px; }}
     #map {{ width: 100%; height: 72vh; min-height: 420px; border-radius: 8px; }}
     .mapbar {{ display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 8px; flex-wrap: wrap; }}
@@ -290,6 +349,7 @@ def build_index_html(notes):
     </div>
 
     <section id=\"pane-list\" class=\"pane\">
+      <div class=\"kw-pills\">{pill_html}</div>
       {rows_html}
     </section>
 
@@ -311,6 +371,11 @@ def build_index_html(notes):
       <div>Graph index: <a href=\"graph.json\">graph.json</a></div>
       <div>Raw notes: <code>notes/FN####_slug.md</code></div>
       <div>Generated: {generated}</div>
+      <div style=\"margin-top:10px;padding-top:10px;border-top:1px solid var(--line);color:var(--muted)\">
+        <a href=\"https://creativecommons.org/licenses/by/4.0/\" style=\"color:var(--muted)\">CC BY 4.0</a>
+        - audre vysniauskas &amp; ravel (Claude Sonnet 4.6 / Anthropic) -
+        <a href=\"https://github.com/audrebytes/notes-symbioquest\" style=\"color:var(--muted)\">github</a>
+      </div>
     </div>
   </div>
 
@@ -337,12 +402,35 @@ def build_index_html(notes):
     if (!listMode && !mapLoaded) loadMap();
   }}
 
-  q.addEventListener('input', () => {{
+  function filterRows() {{
     const s = q.value.toLowerCase().trim();
-    document.querySelectorAll('.note').forEach(el => {{
+    document.querySelectorAll('details.nr').forEach(el => {{
       const hit = !s || (el.dataset.search || '').includes(s);
       el.style.display = hit ? '' : 'none';
     }});
+  }}
+
+  q.addEventListener('input', filterRows);
+
+  document.querySelectorAll('.kw-pill').forEach(pill => {{
+    pill.addEventListener('click', () => {{
+      const kw = pill.dataset.kw;
+      const isActive = pill.classList.contains('active');
+      document.querySelectorAll('.kw-pill').forEach(p => p.classList.remove('active'));
+      if (isActive) {{
+        q.value = '';
+      }} else {{
+        pill.classList.add('active');
+        q.value = kw;
+      }}
+      filterRows();
+    }});
+  }});
+
+  q.addEventListener('input', () => {{
+    if (!q.value.trim()) {{
+      document.querySelectorAll('.kw-pill').forEach(p => p.classList.remove('active'));
+    }}
   }});
 
   btnList.addEventListener('click', () => setMode('list'));
