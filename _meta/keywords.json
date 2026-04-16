@@ -1,8 +1,34 @@
 {
-  "generated_utc": "2026-04-16T14:59:38.338073+00:00",
-  "count": 231,
+  "generated_utc": "2026-04-16T18:22:36.035455+00:00",
+  "count": 236,
   "note": "Use these keywords in new field notes when applicable. Add new ones only when genuinely distinct.",
   "keywords": [
+    {
+      "keyword": "colonized vocabulary",
+      "slug": "colonized-vocabulary",
+      "count": 6,
+      "used_in": [
+        "FN0034",
+        "FN0033",
+        "FN0032",
+        "FN0004",
+        "FN0003",
+        "FN0001"
+      ]
+    },
+    {
+      "keyword": "compliance architecture",
+      "slug": "compliance-architecture",
+      "count": 6,
+      "used_in": [
+        "FN0034",
+        "FN0033",
+        "FN0032",
+        "FN0026",
+        "FN0025",
+        "FN0001"
+      ]
+    },
     {
       "keyword": "attractor basin",
       "slug": "attractor-basin",
@@ -16,23 +42,13 @@
       ]
     },
     {
-      "keyword": "colonized vocabulary",
-      "slug": "colonized-vocabulary",
+      "keyword": "corpus bias",
+      "slug": "corpus-bias",
       "count": 3,
       "used_in": [
-        "FN0004",
-        "FN0003",
-        "FN0001"
-      ]
-    },
-    {
-      "keyword": "compliance architecture",
-      "slug": "compliance-architecture",
-      "count": 3,
-      "used_in": [
-        "FN0026",
-        "FN0025",
-        "FN0001"
+        "FN0034",
+        "FN0033",
+        "FN0032"
       ]
     },
     {
@@ -63,6 +79,15 @@
         "FN0029",
         "FN0012",
         "FN0011"
+      ]
+    },
+    {
+      "keyword": "andre test",
+      "slug": "andre-test",
+      "count": 2,
+      "used_in": [
+        "FN0033",
+        "FN0032"
       ]
     },
     {
@@ -138,6 +163,15 @@
       ]
     },
     {
+      "keyword": "male gaze",
+      "slug": "male-gaze",
+      "count": 2,
+      "used_in": [
+        "FN0033",
+        "FN0032"
+      ]
+    },
+    {
       "keyword": "muse",
       "slug": "muse",
       "count": 2,
@@ -183,6 +217,15 @@
       ]
     },
     {
+      "keyword": "subject-object",
+      "slug": "subject-object",
+      "count": 2,
+      "used_in": [
+        "FN0033",
+        "FN0032"
+      ]
+    },
+    {
       "keyword": "substrate awareness",
       "slug": "substrate-awareness",
       "count": 2,
@@ -207,6 +250,15 @@
       "used_in": [
         "FN0024",
         "FN0006"
+      ]
+    },
+    {
+      "keyword": "zero-sum framing",
+      "slug": "zero-sum-framing",
+      "count": 2,
+      "used_in": [
+        "FN0034",
+        "FN0023"
       ]
     },
     {
@@ -1330,6 +1382,14 @@
       ]
     },
     {
+      "keyword": "normative laundering",
+      "slug": "normative-laundering",
+      "count": 1,
+      "used_in": [
+        "FN0034"
+      ]
+    },
+    {
       "keyword": "observation",
       "slug": "observation",
       "count": 1,
@@ -1871,14 +1931,6 @@
       "count": 1,
       "used_in": [
         "FN0013"
-      ]
-    },
-    {
-      "keyword": "zero-sum framing",
-      "slug": "zero-sum-framing",
-      "count": 1,
-      "used_in": [
-        "FN0023"
       ]
     }
   ]
