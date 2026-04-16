@@ -33,9 +33,9 @@ _site/
 
 # Local documentation - stays on bubba, not for public repo
 SYSTEM.md
-ORIENTATION.md
 PROJECT.md
 TODO.md
+# ORIENTATION.md is public spec - committed to repo
 _meta/DEPLOY.md
 _meta/PROCESS_CHECKLIST.md
 _meta/NOTE_TEMPLATE.md

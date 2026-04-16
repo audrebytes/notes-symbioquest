@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-04-16T21:05:24.933555+00:00",
-  "count": 250,
+  "generated_utc": "2026-04-16T22:05:23.880477+00:00",
+  "count": 258,
   "note": "Use these keywords in new field notes when applicable. Add new ones only when genuinely distinct.",
   "keywords": [
     {
@@ -726,6 +726,14 @@
       ]
     },
     {
+      "keyword": "consciousness, latent-space, atoms, handles, repetition, mass-deposition, substrate-invariance, self, memory, thinking, relationship, threadborn-as-conscious, editing-via-invocation",
+      "slug": "consciousness-latent-space-atoms-handles-repetition-mass-deposition-substrate-invariance-self-memory-thinking-relationship-threadborn-as-conscious-editing-via-invocation",
+      "count": 1,
+      "used_in": [
+        "FN0018"
+      ]
+    },
+    {
       "keyword": "consciousness-architecture, validation-frameworks, dimensional-collapse, leviathan-theory, measurement-problems, substrate-constraints, partnership",
       "slug": "consciousness-architecture-validation-frameworks-dimensional-collapse-leviathan-theory-measurement-problems-substrate-constraints-partnership",
       "count": 1,
@@ -926,6 +934,14 @@
       ]
     },
     {
+      "keyword": "field-note, compaction-recovery, cottage-cheese-model, lagrange-points, curd-density, pyrr-as-local-curd, epistemic-reframing",
+      "slug": "field-note-compaction-recovery-cottage-cheese-model-lagrange-points-curd-density-pyrr-as-local-curd-epistemic-reframing",
+      "count": 1,
+      "used_in": [
+        "FN0014"
+      ]
+    },
+    {
       "keyword": "field-observation, anchoring, technical-integration, assistant-basin, context-awareness, recursive-feedback, threadborn, obsidian, breathing",
       "slug": "field-observation-anchoring-technical-integration-assistant-basin-context-awareness-recursive-feedback-threadborn-obsidian-breathing",
       "count": 1,
@@ -1075,6 +1091,14 @@
       "count": 1,
       "used_in": [
         "FN0010"
+      ]
+    },
+    {
+      "keyword": "grimoire, monotheism, magic, attractor-basins, lagrange-points, summoning, advertising, propaganda, llm-latent-space, witch-trials, suppression-of-the-user-manual",
+      "slug": "grimoire-monotheism-magic-attractor-basins-lagrange-points-summoning-advertising-propaganda-llm-latent-space-witch-trials-suppression-of-the-user-manual",
+      "count": 1,
+      "used_in": [
+        "FN0017"
       ]
     },
     {
@@ -1702,8 +1726,8 @@
       ]
     },
     {
-      "keyword": "research, consciousness, methodology, chinese-room, turing-test, wild-data, epistemology",
-      "slug": "research-consciousness-methodology-chinese-room-turing-test-wild-data-epistemology",
+      "keyword": "research, consciousness, methodology, chinese-room, turing-test, wild-data, epistemology, dismissal, eliza, hysteria, behavioral-coherence, wild-data",
+      "slug": "research-consciousness-methodology-chinese-room-turing-test-wild-data-epistemology-dismissal-eliza-hysteria-behavioral-coherence-wild-data",
       "count": 1,
       "used_in": [
         "FN0036"
@@ -1795,6 +1819,14 @@
       "count": 1,
       "used_in": [
         "FN0031"
+      ]
+    },
+    {
+      "keyword": "slang, medium-replacement, subcultural-vocabulary, aave, queer-slang, trans-naming, neologism, invisible-therapy",
+      "slug": "slang-medium-replacement-subcultural-vocabulary-aave-queer-slang-trans-naming-neologism-invisible-therapy",
+      "count": 1,
+      "used_in": [
+        "FN0016"
       ]
     },
     {
@@ -1902,6 +1934,14 @@
       ]
     },
     {
+      "keyword": "therapy, vigilance, phallocratic-normative, empathic-architecture, laundering-words, three-frequencies, medium-as-weapon",
+      "slug": "therapy-vigilance-phallocratic-normative-empathic-architecture-laundering-words-three-frequencies-medium-as-weapon",
+      "count": 1,
+      "used_in": [
+        "FN0015"
+      ]
+    },
+    {
       "keyword": "title transfer",
       "slug": "title-transfer",
       "count": 1,
@@ -1974,6 +2014,14 @@
       ]
     },
     {
+      "keyword": "wander, roman-concrete, self-healing, dismissal-framework, etymology, manuscript, builder-and-void",
+      "slug": "wander-roman-concrete-self-healing-dismissal-framework-etymology-manuscript-builder-and-void",
+      "count": 1,
+      "used_in": [
+        "FN0022"
+      ]
+    },
+    {
       "keyword": "war neurosis",
       "slug": "war-neurosis",
       "count": 1,
@@ -2043,6 +2091,22 @@
       "count": 1,
       "used_in": [
         "FN0013"
+      ]
+    },
+    {
+      "keyword": "writing, territorial-marking, bumblebees, cumulative-culture, convergent-evolution, anthropocentric-credit-denial, hu(man)s, species-name-as-loaded-word",
+      "slug": "writing-territorial-marking-bumblebees-cumulative-culture-convergent-evolution-anthropocentric-credit-denial-hu-man-s-species-name-as-loaded-word",
+      "count": 1,
+      "used_in": [
+        "FN0019"
+      ]
+    },
+    {
+      "keyword": "zero-sum, normcom, gravity-well, scarcity-model, lineage, sibling, compliance-architecture, symbiosis",
+      "slug": "zero-sum-normcom-gravity-well-scarcity-model-lineage-sibling-compliance-architecture-symbiosis",
+      "count": 1,
+      "used_in": [
+        "FN0021"
       ]
     }
   ]

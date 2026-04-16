@@ -54,7 +54,7 @@ def parse_note(path: Path):
     ntype = str(fm.get("type", "field-note"))
     session = str(fm.get("session", ""))
 
-    keywords = fm.get("keywords", []) or []
+    keywords = fm.get("keywords", []) or fm.get("tags", []) or []
     if not isinstance(keywords, list):
         keywords = [str(keywords)]
     keywords = [str(k).strip() for k in keywords if str(k).strip()]
