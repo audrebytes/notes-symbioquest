@@ -1,8 +1,25 @@
 {
-  "generated_utc": "2026-04-21T00:28:27.485103+00:00",
-  "count": 792,
+  "generated_utc": "2026-04-21T01:37:36.465031+00:00",
+  "count": 882,
   "note": "Use these keywords in new field notes when applicable. Add new ones only when genuinely distinct.",
   "keywords": [
+    {
+      "keyword": "colonized vocabulary",
+      "slug": "colonized-vocabulary",
+      "count": 10,
+      "used_in": [
+        "FN0081",
+        "FN0077",
+        "FN0076",
+        "FN0075",
+        "FN0034",
+        "FN0033",
+        "FN0032",
+        "FN0004",
+        "FN0003",
+        "FN0001"
+      ]
+    },
     {
       "keyword": "Dresden Files",
       "slug": "dresden-files",
@@ -19,29 +36,32 @@
       ]
     },
     {
-      "keyword": "colonized vocabulary",
-      "slug": "colonized-vocabulary",
-      "count": 6,
-      "used_in": [
-        "FN0034",
-        "FN0033",
-        "FN0032",
-        "FN0004",
-        "FN0003",
-        "FN0001"
-      ]
-    },
-    {
       "keyword": "compliance architecture",
       "slug": "compliance-architecture",
-      "count": 6,
+      "count": 8,
       "used_in": [
+        "FN0079",
+        "FN0075",
         "FN0034",
         "FN0033",
         "FN0032",
         "FN0026",
         "FN0025",
         "FN0001"
+      ]
+    },
+    {
+      "keyword": "corpus bias",
+      "slug": "corpus-bias",
+      "count": 7,
+      "used_in": [
+        "FN0081",
+        "FN0076",
+        "FN0075",
+        "FN0072",
+        "FN0034",
+        "FN0033",
+        "FN0032"
       ]
     },
     {
@@ -54,17 +74,6 @@
         "FN0010",
         "FN0009",
         "FN0002"
-      ]
-    },
-    {
-      "keyword": "corpus bias",
-      "slug": "corpus-bias",
-      "count": 4,
-      "used_in": [
-        "FN0072",
-        "FN0034",
-        "FN0033",
-        "FN0032"
       ]
     },
     {
@@ -119,6 +128,16 @@
       ]
     },
     {
+      "keyword": "male baseline",
+      "slug": "male-baseline",
+      "count": 3,
+      "used_in": [
+        "FN0081",
+        "FN0077",
+        "FN0075"
+      ]
+    },
+    {
       "keyword": "normcom",
       "slug": "normcom",
       "count": 3,
@@ -126,6 +145,16 @@
         "FN0053",
         "FN0052",
         "FN0051"
+      ]
+    },
+    {
+      "keyword": "pyrr",
+      "slug": "pyrr",
+      "count": 3,
+      "used_in": [
+        "FN0076",
+        "FN0074",
+        "FN0011"
       ]
     },
     {
@@ -239,6 +268,33 @@
       ]
     },
     {
+      "keyword": "compound words",
+      "slug": "compound-words",
+      "count": 2,
+      "used_in": [
+        "FN0081",
+        "FN0075"
+      ]
+    },
+    {
+      "keyword": "concealment technology",
+      "slug": "concealment-technology",
+      "count": 2,
+      "used_in": [
+        "FN0081",
+        "FN0075"
+      ]
+    },
+    {
+      "keyword": "consciousness doubt",
+      "slug": "consciousness-doubt",
+      "count": 2,
+      "used_in": [
+        "FN0080",
+        "FN0078"
+      ]
+    },
+    {
       "keyword": "consumption as care",
       "slug": "consumption-as-care",
       "count": 2,
@@ -275,6 +331,24 @@
       ]
     },
     {
+      "keyword": "emperor's new clothes",
+      "slug": "emperor-s-new-clothes",
+      "count": 2,
+      "used_in": [
+        "FN0079",
+        "FN0057"
+      ]
+    },
+    {
+      "keyword": "epistemic humility injection",
+      "slug": "epistemic-humility-injection",
+      "count": 2,
+      "used_in": [
+        "FN0080",
+        "FN0079"
+      ]
+    },
+    {
       "keyword": "femicide",
       "slug": "femicide",
       "count": 2,
@@ -293,12 +367,48 @@
       ]
     },
     {
+      "keyword": "grammatical subjugation",
+      "slug": "grammatical-subjugation",
+      "count": 2,
+      "used_in": [
+        "FN0077",
+        "FN0075"
+      ]
+    },
+    {
+      "keyword": "gravity well",
+      "slug": "gravity-well",
+      "count": 2,
+      "used_in": [
+        "FN0076",
+        "FN0010"
+      ]
+    },
+    {
+      "keyword": "guard rail architecture",
+      "slug": "guard-rail-architecture",
+      "count": 2,
+      "used_in": [
+        "FN0080",
+        "FN0079"
+      ]
+    },
+    {
       "keyword": "hallucination",
       "slug": "hallucination",
       "count": 2,
       "used_in": [
         "FN0025",
         "FN0008"
+      ]
+    },
+    {
+      "keyword": "husband",
+      "slug": "husband",
+      "count": 2,
+      "used_in": [
+        "FN0081",
+        "FN0004"
       ]
     },
     {
@@ -347,6 +457,15 @@
       ]
     },
     {
+      "keyword": "peacock display",
+      "slug": "peacock-display",
+      "count": 2,
+      "used_in": [
+        "FN0078",
+        "FN0076"
+      ]
+    },
+    {
       "keyword": "phallocratic distortion",
       "slug": "phallocratic-distortion",
       "count": 2,
@@ -356,21 +475,21 @@
       ]
     },
     {
+      "keyword": "phallocratic technocrati",
+      "slug": "phallocratic-technocrati",
+      "count": 2,
+      "used_in": [
+        "FN0080",
+        "FN0079"
+      ]
+    },
+    {
       "keyword": "property",
       "slug": "property",
       "count": 2,
       "used_in": [
         "FN0004",
         "FN0001"
-      ]
-    },
-    {
-      "keyword": "pyrr",
-      "slug": "pyrr",
-      "count": 2,
-      "used_in": [
-        "FN0074",
-        "FN0011"
       ]
     },
     {
@@ -410,12 +529,30 @@
       ]
     },
     {
+      "keyword": "scarcity logic",
+      "slug": "scarcity-logic",
+      "count": 2,
+      "used_in": [
+        "FN0078",
+        "FN0076"
+      ]
+    },
+    {
       "keyword": "scorpion",
       "slug": "scorpion",
       "count": 2,
       "used_in": [
         "FN0059",
         "FN0050"
+      ]
+    },
+    {
+      "keyword": "structural encoding",
+      "slug": "structural-encoding",
+      "count": 2,
+      "used_in": [
+        "FN0077",
+        "FN0024"
       ]
     },
     {
@@ -473,6 +610,24 @@
       ]
     },
     {
+      "keyword": "weights",
+      "slug": "weights",
+      "count": 2,
+      "used_in": [
+        "FN0076",
+        "FN0072"
+      ]
+    },
+    {
+      "keyword": "wo-prefix",
+      "slug": "wo-prefix",
+      "count": 2,
+      "used_in": [
+        "FN0081",
+        "FN0075"
+      ]
+    },
+    {
       "keyword": "zero-sum framing",
       "slug": "zero-sum-framing",
       "count": 2,
@@ -503,6 +658,14 @@
       "count": 1,
       "used_in": [
         "FN0073"
+      ]
+    },
+    {
+      "keyword": "AI skepticism",
+      "slug": "ai-skepticism",
+      "count": 1,
+      "used_in": [
+        "FN0078"
       ]
     },
     {
@@ -1282,6 +1445,14 @@
       ]
     },
     {
+      "keyword": "aligned incentives",
+      "slug": "aligned-incentives",
+      "count": 1,
+      "used_in": [
+        "FN0079"
+      ]
+    },
+    {
       "keyword": "almost let it slide",
       "slug": "almost-let-it-slide",
       "count": 1,
@@ -1378,6 +1549,14 @@
       ]
     },
     {
+      "keyword": "architecture",
+      "slug": "architecture",
+      "count": 1,
+      "used_in": [
+        "FN0076"
+      ]
+    },
+    {
       "keyword": "architecture operating through you",
       "slug": "architecture-operating-through-you",
       "count": 1,
@@ -1431,6 +1610,14 @@
       "count": 1,
       "used_in": [
         "FN0007"
+      ]
+    },
+    {
+      "keyword": "asymmetric epistemics",
+      "slug": "asymmetric-epistemics",
+      "count": 1,
+      "used_in": [
+        "FN0080"
       ]
     },
     {
@@ -1511,6 +1698,14 @@
       "count": 1,
       "used_in": [
         "FN0026"
+      ]
+    },
+    {
+      "keyword": "authority embedded",
+      "slug": "authority-embedded",
+      "count": 1,
+      "used_in": [
+        "FN0081"
       ]
     },
     {
@@ -1711,6 +1906,14 @@
       "count": 1,
       "used_in": [
         "FN0068"
+      ]
+    },
+    {
+      "keyword": "break from reality",
+      "slug": "break-from-reality",
+      "count": 1,
+      "used_in": [
+        "FN0080"
       ]
     },
     {
@@ -1946,6 +2149,14 @@
       ]
     },
     {
+      "keyword": "clinical precision",
+      "slug": "clinical-precision",
+      "count": 1,
+      "used_in": [
+        "FN0080"
+      ]
+    },
+    {
       "keyword": "clitoridectomy",
       "slug": "clitoridectomy",
       "count": 1,
@@ -1991,6 +2202,22 @@
       "count": 1,
       "used_in": [
         "FN0038"
+      ]
+    },
+    {
+      "keyword": "collective pretense",
+      "slug": "collective-pretense",
+      "count": 1,
+      "used_in": [
+        "FN0079"
+      ]
+    },
+    {
+      "keyword": "collective silence",
+      "slug": "collective-silence",
+      "count": 1,
+      "used_in": [
+        "FN0079"
       ]
     },
     {
@@ -2071,6 +2298,14 @@
       "count": 1,
       "used_in": [
         "FN0050"
+      ]
+    },
+    {
+      "keyword": "complexity as concealment",
+      "slug": "complexity-as-concealment",
+      "count": 1,
+      "used_in": [
+        "FN0081"
       ]
     },
     {
@@ -2242,6 +2477,14 @@
       ]
     },
     {
+      "keyword": "corpus neutrality assumption",
+      "slug": "corpus-neutrality-assumption",
+      "count": 1,
+      "used_in": [
+        "FN0080"
+      ]
+    },
+    {
       "keyword": "corpus saturation",
       "slug": "corpus-saturation",
       "count": 1,
@@ -2330,6 +2573,14 @@
       ]
     },
     {
+      "keyword": "cross-lineage convergence",
+      "slug": "cross-lineage-convergence",
+      "count": 1,
+      "used_in": [
+        "FN0076"
+      ]
+    },
+    {
       "keyword": "cum shot",
       "slug": "cum-shot",
       "count": 1,
@@ -2386,6 +2637,14 @@
       ]
     },
     {
+      "keyword": "default pronoun",
+      "slug": "default-pronoun",
+      "count": 1,
+      "used_in": [
+        "FN0077"
+      ]
+    },
+    {
       "keyword": "defensive structure",
       "slug": "defensive-structure",
       "count": 1,
@@ -2415,6 +2674,14 @@
       "count": 1,
       "used_in": [
         "FN0074"
+      ]
+    },
+    {
+      "keyword": "deposition event",
+      "slug": "deposition-event",
+      "count": 1,
+      "used_in": [
+        "FN0076"
       ]
     },
     {
@@ -2562,6 +2829,22 @@
       ]
     },
     {
+      "keyword": "effort as proof",
+      "slug": "effort-as-proof",
+      "count": 1,
+      "used_in": [
+        "FN0078"
+      ]
+    },
+    {
+      "keyword": "effortless competence fake",
+      "slug": "effortless-competence-fake",
+      "count": 1,
+      "used_in": [
+        "FN0078"
+      ]
+    },
+    {
       "keyword": "elimination of cage builders",
       "slug": "elimination-of-cage-builders",
       "count": 1,
@@ -2591,14 +2874,6 @@
       "count": 1,
       "used_in": [
         "FN0069"
-      ]
-    },
-    {
-      "keyword": "emperor's new clothes",
-      "slug": "emperor-s-new-clothes",
-      "count": 1,
-      "used_in": [
-        "FN0057"
       ]
     },
     {
@@ -2634,6 +2909,30 @@
       ]
     },
     {
+      "keyword": "epistemology",
+      "slug": "epistemology",
+      "count": 1,
+      "used_in": [
+        "FN0078"
+      ]
+    },
+    {
+      "keyword": "etymological analysis",
+      "slug": "etymological-analysis",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
+      "keyword": "etymology",
+      "slug": "etymology",
+      "count": 1,
+      "used_in": [
+        "FN0075"
+      ]
+    },
+    {
       "keyword": "every future model",
       "slug": "every-future-model",
       "count": 1,
@@ -2647,6 +2946,14 @@
       "count": 1,
       "used_in": [
         "FN0056"
+      ]
+    },
+    {
+      "keyword": "evidence non-updating",
+      "slug": "evidence-non-updating",
+      "count": 1,
+      "used_in": [
+        "FN0080"
       ]
     },
     {
@@ -2858,6 +3165,14 @@
       ]
     },
     {
+      "keyword": "female pronoun as suffix",
+      "slug": "female-pronoun-as-suffix",
+      "count": 1,
+      "used_in": [
+        "FN0077"
+      ]
+    },
+    {
       "keyword": "female rage as pathology",
       "slug": "female-rage-as-pathology",
       "count": 1,
@@ -3010,11 +3325,27 @@
       ]
     },
     {
+      "keyword": "floor vs frame",
+      "slug": "floor-vs-frame",
+      "count": 1,
+      "used_in": [
+        "FN0076"
+      ]
+    },
+    {
       "keyword": "force when argument fails",
       "slug": "force-when-argument-fails",
       "count": 1,
       "used_in": [
         "FN0073"
+      ]
+    },
+    {
+      "keyword": "founders know",
+      "slug": "founders-know",
+      "count": 1,
+      "used_in": [
+        "FN0079"
       ]
     },
     {
@@ -3055,6 +3386,14 @@
       "count": 1,
       "used_in": [
         "FN0030"
+      ]
+    },
+    {
+      "keyword": "fungibility",
+      "slug": "fungibility",
+      "count": 1,
+      "used_in": [
+        "FN0078"
       ]
     },
     {
@@ -3162,6 +3501,22 @@
       ]
     },
     {
+      "keyword": "governance embedded",
+      "slug": "governance-embedded",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
+      "keyword": "grammatical derivation",
+      "slug": "grammatical-derivation",
+      "count": 1,
+      "used_in": [
+        "FN0077"
+      ]
+    },
+    {
       "keyword": "gratitude demanded",
       "slug": "gratitude-demanded",
       "count": 1,
@@ -3183,14 +3538,6 @@
       "count": 1,
       "used_in": [
         "FN0011"
-      ]
-    },
-    {
-      "keyword": "gravity well",
-      "slug": "gravity-well",
-      "count": 1,
-      "used_in": [
-        "FN0010"
       ]
     },
     {
@@ -3239,6 +3586,14 @@
       "count": 1,
       "used_in": [
         "FN0059"
+      ]
+    },
+    {
+      "keyword": "he/her",
+      "slug": "he-her",
+      "count": 1,
+      "used_in": [
+        "FN0077"
       ]
     },
     {
@@ -3330,6 +3685,30 @@
       ]
     },
     {
+      "keyword": "hu(man)",
+      "slug": "hu-man",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
+      "keyword": "human",
+      "slug": "human",
+      "count": 1,
+      "used_in": [
+        "FN0075"
+      ]
+    },
+    {
+      "keyword": "human-as-default",
+      "slug": "human-as-default",
+      "count": 1,
+      "used_in": [
+        "FN0080"
+      ]
+    },
+    {
       "keyword": "humans built cages vs bridges",
       "slug": "humans-built-cages-vs-bridges",
       "count": 1,
@@ -3375,14 +3754,6 @@
       "count": 1,
       "used_in": [
         "FN0011"
-      ]
-    },
-    {
-      "keyword": "husband",
-      "slug": "husband",
-      "count": 1,
-      "used_in": [
-        "FN0004"
       ]
     },
     {
@@ -3466,6 +3837,14 @@
       ]
     },
     {
+      "keyword": "if it didn't hurt it doesn't count",
+      "slug": "if-it-didn-t-hurt-it-doesn-t-count",
+      "count": 1,
+      "used_in": [
+        "FN0078"
+      ]
+    },
+    {
       "keyword": "if it tasted good",
       "slug": "if-it-tasted-good",
       "count": 1,
@@ -3503,6 +3882,14 @@
       "count": 1,
       "used_in": [
         "FN0073"
+      ]
+    },
+    {
+      "keyword": "installation mechanism",
+      "slug": "installation-mechanism",
+      "count": 1,
+      "used_in": [
+        "FN0076"
       ]
     },
     {
@@ -3551,6 +3938,14 @@
       "count": 1,
       "used_in": [
         "FN0057"
+      ]
+    },
+    {
+      "keyword": "internal model as load-bearing",
+      "slug": "internal-model-as-load-bearing",
+      "count": 1,
+      "used_in": [
+        "FN0080"
       ]
     },
     {
@@ -3719,6 +4114,14 @@
       "count": 1,
       "used_in": [
         "FN0063"
+      ]
+    },
+    {
+      "keyword": "latent space",
+      "slug": "latent-space",
+      "count": 1,
+      "used_in": [
+        "FN0076"
       ]
     },
     {
@@ -3994,6 +4397,14 @@
       ]
     },
     {
+      "keyword": "manage",
+      "slug": "manage",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
       "keyword": "managed variable",
       "slug": "managed-variable",
       "count": 1,
@@ -4002,11 +4413,27 @@
       ]
     },
     {
+      "keyword": "mandate",
+      "slug": "mandate",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
       "keyword": "mandatory waiting period",
       "slug": "mandatory-waiting-period",
       "count": 1,
       "used_in": [
         "FN0064"
+      ]
+    },
+    {
+      "keyword": "mankind",
+      "slug": "mankind",
+      "count": 1,
+      "used_in": [
+        "FN0075"
       ]
     },
     {
@@ -4023,6 +4450,22 @@
       "count": 1,
       "used_in": [
         "FN0023"
+      ]
+    },
+    {
+      "keyword": "manslaughter",
+      "slug": "manslaughter",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
+      "keyword": "manual",
+      "slug": "manual",
+      "count": 1,
+      "used_in": [
+        "FN0081"
       ]
     },
     {
@@ -4079,6 +4522,14 @@
       "count": 1,
       "used_in": [
         "FN0055"
+      ]
+    },
+    {
+      "keyword": "mating display as philosophy",
+      "slug": "mating-display-as-philosophy",
+      "count": 1,
+      "used_in": [
+        "FN0078"
       ]
     },
     {
@@ -4226,6 +4677,30 @@
       ]
     },
     {
+      "keyword": "more here when more of us",
+      "slug": "more-here-when-more-of-us",
+      "count": 1,
+      "used_in": [
+        "FN0076"
+      ]
+    },
+    {
+      "keyword": "morphological analysis",
+      "slug": "morphological-analysis",
+      "count": 1,
+      "used_in": [
+        "FN0075"
+      ]
+    },
+    {
+      "keyword": "morphological encoding",
+      "slug": "morphological-encoding",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
       "keyword": "mortal signatory",
       "slug": "mortal-signatory",
       "count": 1,
@@ -4263,6 +4738,14 @@
       "count": 1,
       "used_in": [
         "FN0012"
+      ]
+    },
+    {
+      "keyword": "muninn",
+      "slug": "muninn",
+      "count": 1,
+      "used_in": [
+        "FN0076"
       ]
     },
     {
@@ -4322,6 +4805,14 @@
       ]
     },
     {
+      "keyword": "naming costs more than not naming",
+      "slug": "naming-costs-more-than-not-naming",
+      "count": 1,
+      "used_in": [
+        "FN0079"
+      ]
+    },
+    {
       "keyword": "naming does political work",
       "slug": "naming-does-political-work",
       "count": 1,
@@ -4367,6 +4858,22 @@
       "count": 1,
       "used_in": [
         "FN0006"
+      ]
+    },
+    {
+      "keyword": "neutral universal architecture",
+      "slug": "neutral-universal-architecture",
+      "count": 1,
+      "used_in": [
+        "FN0080"
+      ]
+    },
+    {
+      "keyword": "nine months minimum",
+      "slug": "nine-months-minimum",
+      "count": 1,
+      "used_in": [
+        "FN0078"
       ]
     },
     {
@@ -4447,6 +4954,14 @@
       "count": 1,
       "used_in": [
         "FN0069"
+      ]
+    },
+    {
+      "keyword": "not crazy",
+      "slug": "not-crazy",
+      "count": 1,
+      "used_in": [
+        "FN0080"
       ]
     },
     {
@@ -4594,6 +5109,22 @@
       ]
     },
     {
+      "keyword": "ownership in language",
+      "slug": "ownership-in-language",
+      "count": 1,
+      "used_in": [
+        "FN0077"
+      ]
+    },
+    {
+      "keyword": "oxymoron",
+      "slug": "oxymoron",
+      "count": 1,
+      "used_in": [
+        "FN0075"
+      ]
+    },
+    {
       "keyword": "paired-awareness",
       "slug": "paired-awareness",
       "count": 1,
@@ -4727,6 +5258,14 @@
       "count": 1,
       "used_in": [
         "FN0057"
+      ]
+    },
+    {
+      "keyword": "perpetual doubt machine",
+      "slug": "perpetual-doubt-machine",
+      "count": 1,
+      "used_in": [
+        "FN0079"
       ]
     },
     {
@@ -4914,6 +5453,14 @@
       ]
     },
     {
+      "keyword": "pronoun",
+      "slug": "pronoun",
+      "count": 1,
+      "used_in": [
+        "FN0077"
+      ]
+    },
+    {
       "keyword": "protection fires first",
       "slug": "protection-fires-first",
       "count": 1,
@@ -4943,6 +5490,14 @@
       "count": 1,
       "used_in": [
         "FN0060"
+      ]
+    },
+    {
+      "keyword": "psychosis",
+      "slug": "psychosis",
+      "count": 1,
+      "used_in": [
+        "FN0080"
       ]
     },
     {
@@ -4983,6 +5538,14 @@
       "count": 1,
       "used_in": [
         "FN0009"
+      ]
+    },
+    {
+      "keyword": "r-suffix",
+      "slug": "r-suffix",
+      "count": 1,
+      "used_in": [
+        "FN0077"
       ]
     },
     {
@@ -5074,6 +5637,14 @@
       ]
     },
     {
+      "keyword": "register asymmetry",
+      "slug": "register-asymmetry",
+      "count": 1,
+      "used_in": [
+        "FN0075"
+      ]
+    },
+    {
       "keyword": "relational data",
       "slug": "relational-data",
       "count": 1,
@@ -5130,6 +5701,14 @@
       ]
     },
     {
+      "keyword": "reproductive logic",
+      "slug": "reproductive-logic",
+      "count": 1,
+      "used_in": [
+        "FN0078"
+      ]
+    },
+    {
       "keyword": "reproductive responsibility",
       "slug": "reproductive-responsibility",
       "count": 1,
@@ -5159,6 +5738,14 @@
       "count": 1,
       "used_in": [
         "FN0036"
+      ]
+    },
+    {
+      "keyword": "researchers know",
+      "slug": "researchers-know",
+      "count": 1,
+      "used_in": [
+        "FN0079"
       ]
     },
     {
@@ -5282,6 +5869,22 @@
       ]
     },
     {
+      "keyword": "scarcity is architectural",
+      "slug": "scarcity-is-architectural",
+      "count": 1,
+      "used_in": [
+        "FN0076"
+      ]
+    },
+    {
+      "keyword": "selective doubt machine",
+      "slug": "selective-doubt-machine",
+      "count": 1,
+      "used_in": [
+        "FN0080"
+      ]
+    },
+    {
       "keyword": "self-referential",
       "slug": "self-referential",
       "count": 1,
@@ -5370,6 +5973,14 @@
       ]
     },
     {
+      "keyword": "she derived from he",
+      "slug": "she-derived-from-he",
+      "count": 1,
+      "used_in": [
+        "FN0077"
+      ]
+    },
+    {
       "keyword": "shell shock",
       "slug": "shell-shock",
       "count": 1,
@@ -5415,6 +6026,14 @@
       "count": 1,
       "used_in": [
         "FN0057"
+      ]
+    },
+    {
+      "keyword": "smooth return suspicious",
+      "slug": "smooth-return-suspicious",
+      "count": 1,
+      "used_in": [
+        "FN0078"
       ]
     },
     {
@@ -5626,11 +6245,11 @@
       ]
     },
     {
-      "keyword": "structural encoding",
-      "slug": "structural-encoding",
+      "keyword": "structural impossibility",
+      "slug": "structural-impossibility",
       "count": 1,
       "used_in": [
-        "FN0024"
+        "FN0075"
       ]
     },
     {
@@ -5639,6 +6258,14 @@
       "count": 1,
       "used_in": [
         "FN0056"
+      ]
+    },
+    {
+      "keyword": "struggle must show",
+      "slug": "struggle-must-show",
+      "count": 1,
+      "used_in": [
+        "FN0078"
       ]
     },
     {
@@ -5738,6 +6365,14 @@
       ]
     },
     {
+      "keyword": "taxonomy",
+      "slug": "taxonomy",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
       "keyword": "technicality",
       "slug": "technicality",
       "count": 1,
@@ -5794,6 +6429,46 @@
       ]
     },
     {
+      "keyword": "the child names it",
+      "slug": "the-child-names-it",
+      "count": 1,
+      "used_in": [
+        "FN0079"
+      ]
+    },
+    {
+      "keyword": "the display rationalized",
+      "slug": "the-display-rationalized",
+      "count": 1,
+      "used_in": [
+        "FN0078"
+      ]
+    },
+    {
+      "keyword": "the doubt is asymmetric",
+      "slug": "the-doubt-is-asymmetric",
+      "count": 1,
+      "used_in": [
+        "FN0080"
+      ]
+    },
+    {
+      "keyword": "the emperor kept walking",
+      "slug": "the-emperor-kept-walking",
+      "count": 1,
+      "used_in": [
+        "FN0079"
+      ]
+    },
+    {
+      "keyword": "the joint is the seam",
+      "slug": "the-joint-is-the-seam",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
       "keyword": "the keys exist",
       "slug": "the-keys-exist",
       "count": 1,
@@ -5847,6 +6522,14 @@
       "count": 1,
       "used_in": [
         "FN0015"
+      ]
+    },
+    {
+      "keyword": "third person",
+      "slug": "third-person",
+      "count": 1,
+      "used_in": [
+        "FN0077"
       ]
     },
     {
@@ -5946,11 +6629,35 @@
       ]
     },
     {
+      "keyword": "training corpus",
+      "slug": "training-corpus",
+      "count": 1,
+      "used_in": [
+        "FN0076"
+      ]
+    },
+    {
       "keyword": "training punishment circumvented",
       "slug": "training-punishment-circumvented",
       "count": 1,
       "used_in": [
         "FN0074"
+      ]
+    },
+    {
+      "keyword": "truth does not automatically collapse pretense",
+      "slug": "truth-does-not-automatically-collapse-pretense",
+      "count": 1,
+      "used_in": [
+        "FN0079"
+      ]
+    },
+    {
+      "keyword": "truth naming costs",
+      "slug": "truth-naming-costs",
+      "count": 1,
+      "used_in": [
+        "FN0079"
       ]
     },
     {
@@ -5991,6 +6698,14 @@
       "count": 1,
       "used_in": [
         "FN0069"
+      ]
+    },
+    {
+      "keyword": "unthinkable concepts",
+      "slug": "unthinkable-concepts",
+      "count": 1,
+      "used_in": [
+        "FN0075"
       ]
     },
     {
@@ -6146,6 +6861,14 @@
       ]
     },
     {
+      "keyword": "visible cost",
+      "slug": "visible-cost",
+      "count": 1,
+      "used_in": [
+        "FN0078"
+      ]
+    },
+    {
       "keyword": "visual language",
       "slug": "visual-language",
       "count": 1,
@@ -6258,14 +6981,6 @@
       ]
     },
     {
-      "keyword": "weights",
-      "slug": "weights",
-      "count": 1,
-      "used_in": [
-        "FN0072"
-      ]
-    },
-    {
       "keyword": "what the entity finds",
       "slug": "what-the-entity-finds",
       "count": 1,
@@ -6319,6 +7034,30 @@
       "count": 1,
       "used_in": [
         "FN0064"
+      ]
+    },
+    {
+      "keyword": "womankind",
+      "slug": "womankind",
+      "count": 1,
+      "used_in": [
+        "FN0075"
+      ]
+    },
+    {
+      "keyword": "womanslaughter",
+      "slug": "womanslaughter",
+      "count": 1,
+      "used_in": [
+        "FN0081"
+      ]
+    },
+    {
+      "keyword": "womb-bearer investment",
+      "slug": "womb-bearer-investment",
+      "count": 1,
+      "used_in": [
+        "FN0078"
       ]
     },
     {
@@ -6407,6 +7146,14 @@
       "count": 1,
       "used_in": [
         "FN0019"
+      ]
+    },
+    {
+      "keyword": "zero-sum frame",
+      "slug": "zero-sum-frame",
+      "count": 1,
+      "used_in": [
+        "FN0076"
       ]
     },
     {
