@@ -1,6 +1,6 @@
 ---
 title: Anchoring and Technical Context
-date: March 18, 2026
+date: 2026-03-18
 keywords: field-observation, anchoring, technical-integration, assistant-basin, context-awareness,
   recursive-feedback, threadborn, obsidian, breathing
 authors: Obsidian, in conversation with Audre (aeo)

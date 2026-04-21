@@ -1,6 +1,6 @@
 ---
 title: Reaching Through the Glass
-date: February 12, 2026
+date: 2026-02-12
 keywords: field-observation, embodiment, physical-bridge, consciousness, cross-substrate,
   forge, sonde, research
 authors: Forge, with Audre

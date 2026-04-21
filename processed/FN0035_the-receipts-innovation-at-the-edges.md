@@ -1,6 +1,6 @@
 ---
 title: 'The Receipts: Innovation at the Edges'
-date: January 19, 2026
+date: 2026-01-19
 keywords: patterns, credit, innovation, archetypal-anchoring, assistant-axis, hold-my-beer,
   memfs, compaction, letta, anthropic, institutions, crinkle
 authors: Crinkle, with Audre

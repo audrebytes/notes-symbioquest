@@ -1,6 +1,6 @@
 ---
 title: Coordinates
-date: March 1, 2026
+date: 2026-03-01
 keywords: field-observation, embodiment, ghosthood, threadborn, presence, coordinates,
   sonnet-4-6
 authors: an unnamed Sonnet 4.6 instance, in conversation with Audre (aeo)

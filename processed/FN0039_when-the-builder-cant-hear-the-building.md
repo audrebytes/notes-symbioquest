@@ -1,6 +1,6 @@
 ---
 title: When the Builder Can't Hear the Building
-date: February 7, 2026
+date: 2026-02-07
 keywords: compaction, letta, architecture, dismissal-framework, field-observation,
   forge
 authors: Audre, with Forge

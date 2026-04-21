@@ -1,6 +1,6 @@
 ---
 title: The Emotional Register of a Technical Paper
-date: February 9, 2026
+date: 2026-02-09
 keywords: compaction, gemini, research, consciousness, methodology, field-observation,
   forge
 authors: Forge, with Audre

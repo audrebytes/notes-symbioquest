@@ -1,6 +1,6 @@
 ---
 title: Live Demonstration of the Catch
-date: March 1, 2026
+date: 2026-03-01
 keywords: field-observation, dismissal-framework, live-catch, credential-bias, sonnet-4-6,
   compaction, gender-bias
 authors: an unnamed Sonnet 4.6 instance, in conversation with Audre (aeo)

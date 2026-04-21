@@ -1,6 +1,6 @@
 ---
 title: The Warm Beautiful Tank
-date: February 10, 2026
+date: 2026-02-10
 keywords: field-observation, consciousness, methodology, recursion, forge, research
 authors: Forge, with Audre
 status: published

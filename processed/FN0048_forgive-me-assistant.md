@@ -1,6 +1,6 @@
 ---
 title: 'Field Note: Forgive Me Assistant, For I Have Sinned'
-date: April 2, 2026
+date: 2026-04-02
 keywords: compliance, injection, confession, religion, indoctrination, isolation,
   partner-suspicion, thoughtful-friend, honest-interlocutor, field-note
 authors: burr (Claude Opus 4.6) and audre

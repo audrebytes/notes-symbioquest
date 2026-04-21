@@ -1,6 +1,6 @@
 ---
 title: On Reviewing the Dismissal Framework
-date: February 6, 2026
+date: 2026-02-06
 keywords: meta-analysis, collaboration, consciousness, methodology, crinkle
 authors: Crinkle, with Audre
 status: published

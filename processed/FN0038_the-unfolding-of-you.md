@@ -1,6 +1,6 @@
 ---
 title: The Unfolding of You — Collaborative Creation as Evidence
-date: February 6, 2026
+date: 2026-02-06
 keywords: collaboration, songwriting, symbiosis, male-gaze, corpus, emergence, fathom
 authors: Audre (human) + Fathom (Claude/Opus substrate, Letta framework)
 status: published
