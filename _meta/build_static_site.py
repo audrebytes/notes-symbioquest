@@ -9,6 +9,7 @@ import shutil
 from datetime import datetime, timezone
 from pathlib import Path
 
+import markdown as md_lib
 import yaml
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.S)
@@ -53,6 +54,7 @@ def parse_note(path: Path):
     status = str(fm.get("status", "raw"))
     ntype = str(fm.get("type", "field-note"))
     session = str(fm.get("session", ""))
+    authors = str(fm.get("authors", ""))
 
     keywords = fm.get("keywords", []) or fm.get("tags", []) or []
     if not isinstance(keywords, list):
@@ -69,6 +71,8 @@ def parse_note(path: Path):
     )
     title = scrub_dashes(title)
 
+    html_filename = path.stem + ".html"
+
     return {
         "id": fid,
         "revision": rev,
@@ -80,7 +84,9 @@ def parse_note(path: Path):
         "keywords": keywords,
         "connects_to": connects,
         "filename": path.name,
-        "url": f"notes/{path.name}",
+        "url": f"notes/{html_filename}",
+        "url_raw": f"notes/{path.name}",
+        "authors": authors,
         "excerpt": excerpt,
     }
 
@@ -570,6 +576,208 @@ def build_index_html(notes):
 """
 
 
+def build_note_html(note: dict, body: str, notes_by_id: dict) -> str:
+    """Render a single note as a standalone HTML page."""
+    md = md_lib.Markdown(extensions=["fenced_code", "tables", "nl2br"])
+    body_html = md.convert(scrub_dashes(body))
+
+    # keyword chips
+    kw_chips = "".join(
+        f'<span class="kchip">{html.escape(k)}</span>'
+        for k in note["keywords"]
+    )
+
+    # connects_to links
+    connects_html = ""
+    if note["connects_to"]:
+        items = []
+        for ref in note["connects_to"]:
+            fn_id = extract_fn_id(ref)
+            linked = notes_by_id.get(fn_id) if fn_id else None
+            if linked:
+                items.append(
+                    f'<a class="conn-link" href="../{html.escape(linked["url"])}">'
+                    f'{html.escape(linked["id"])} - {html.escape(linked["title"])}</a>'
+                )
+            else:
+                items.append(f'<span class="conn-ref">{html.escape(ref)}</span>')
+        connects_html = (
+            '<section class="connects">'
+            '<h3>connects to</h3>'
+            '<div class="conn-list">' + "\n".join(items) + "</div>"
+            "</section>"
+        )
+
+    dot_color, dot_label = STATUS_DOT.get(note["status"], ("#555", note["status"]))
+    status_badge = (
+        f'<span class="sbadge" style="border-color:{dot_color};color:{dot_color}">'
+        f'{html.escape(dot_label)}</span>'
+    )
+
+    rev = note.get("revision", 1)
+    session_str = f' &middot; session {html.escape(str(note["session"]))}' if note["session"] else ""
+    authors_str = ""
+    # grab authors from raw fm if present - we'll pass it through note dict
+    if note.get("authors"):
+        authors_str = f'<div class="meta-row">authors: {html.escape(str(note["authors"]))}</div>'
+
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{html.escape(note["title"])} - notes.symbioquest</title>
+  <meta name="description" content="{html.escape(note['excerpt'][:160])}" />
+  <style>
+    :root {{
+      --bg: #0e0f13;
+      --panel: #14161d;
+      --panel-2: #161820;
+      --line: #2a2c35;
+      --fg: #ececf1;
+      --muted: #b6b7c3;
+      --link: #9dc1ff;
+      --keyword: #8ccba4;
+      --accent: #d7ddff;
+    }}
+    *, *::before, *::after {{ box-sizing: border-box; }}
+    body {{
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      margin: 0; background: var(--bg); color: var(--fg);
+      line-height: 1.7;
+    }}
+    a {{ color: var(--link); }}
+    a:hover {{ color: var(--accent); }}
+
+    /* layout */
+    .site-header {{
+      border-bottom: 1px solid var(--line);
+      padding: 12px 24px;
+      display: flex; align-items: center; gap: 16px;
+    }}
+    .site-name {{ font-size: .9rem; color: var(--muted); text-decoration: none; }}
+    .site-name:hover {{ color: var(--fg); }}
+    .back {{ font-size: .85rem; color: var(--muted); text-decoration: none; }}
+    .back:hover {{ color: var(--fg); }}
+    .sep {{ color: var(--line); }}
+
+    .wrap {{ max-width: 780px; margin: 0 auto; padding: 40px 24px 80px; }}
+
+    /* note header */
+    .note-id {{ font-family: monospace; font-size: .82rem; color: var(--muted); margin-bottom: 6px; }}
+    h1 {{ margin: 0 0 12px; font-size: 1.85rem; line-height: 1.25; color: var(--accent); }}
+    .meta {{ display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px; font-size: .85rem; color: var(--muted); }}
+    .sbadge {{
+      border: 1px solid; border-radius: 20px;
+      padding: 2px 10px; font-size: .78rem;
+    }}
+    .kchips {{ display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 28px; }}
+    .kchip {{
+      background: #0d1f14; border: 1px solid #2a5040;
+      color: var(--keyword); padding: 3px 10px;
+      border-radius: 14px; font-size: .8rem;
+    }}
+
+    /* body */
+    .note-body {{ font-size: 1rem; }}
+    .note-body h1 {{ font-size: 1.5rem; margin-top: 2rem; }}
+    .note-body h2 {{ font-size: 1.25rem; margin-top: 1.8rem; border-bottom: 1px solid var(--line); padding-bottom: 4px; }}
+    .note-body h3 {{ font-size: 1.05rem; margin-top: 1.5rem; color: var(--accent); }}
+    .note-body p {{ margin: 0 0 1.1em; }}
+    .note-body strong {{ color: var(--accent); }}
+    .note-body em {{ color: #c4cce8; }}
+    .note-body blockquote {{
+      border-left: 3px solid var(--line);
+      margin: 1.2em 0; padding: .6em 1.2em;
+      color: var(--muted); font-style: italic;
+    }}
+    .note-body code {{
+      font-family: 'Fira Code', 'Cascadia Code', monospace;
+      background: #1c1f29; padding: 2px 6px;
+      border-radius: 5px; font-size: .88em;
+    }}
+    .note-body pre {{
+      background: #1c1f29; padding: 1em 1.2em;
+      border-radius: 8px; overflow-x: auto;
+      border: 1px solid var(--line);
+    }}
+    .note-body pre code {{ background: none; padding: 0; }}
+    .note-body hr {{
+      border: none; border-top: 1px solid var(--line);
+      margin: 2em 0;
+    }}
+    .note-body ul, .note-body ol {{ padding-left: 1.5em; margin: 0 0 1em; }}
+    .note-body li {{ margin-bottom: .3em; }}
+    .note-body table {{ border-collapse: collapse; width: 100%; margin-bottom: 1em; }}
+    .note-body th, .note-body td {{ border: 1px solid var(--line); padding: 6px 12px; text-align: left; }}
+    .note-body th {{ background: var(--panel-2); }}
+
+    /* connects_to */
+    .connects {{ margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--line); }}
+    .connects h3 {{ font-size: .9rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin: 0 0 12px; }}
+    .conn-list {{ display: flex; flex-direction: column; gap: 6px; }}
+    .conn-link {{ font-size: .9rem; }}
+    .conn-ref {{ font-size: .85rem; color: var(--muted); font-family: monospace; }}
+
+    /* disclaimer + footer */
+    .disclaimer {{
+      margin-top: 3rem; padding: 14px 18px;
+      border: 1px solid var(--line); border-radius: 8px;
+      font-size: .83rem; color: var(--muted); line-height: 1.6;
+    }}
+    .footer {{
+      margin-top: 2rem; padding-top: 1.2rem;
+      border-top: 1px solid var(--line);
+      font-size: .82rem; color: var(--muted);
+      display: flex; flex-wrap: wrap; gap: 12px; align-items: center;
+    }}
+    .footer a {{ color: var(--muted); }}
+    .footer a:hover {{ color: var(--link); }}
+    .raw-link {{ margin-left: auto; }}
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <a class="site-name" href="../index.html">notes.symbioquest</a>
+  <span class="sep">/</span>
+  <a class="back" href="../index.html">&larr; index</a>
+</header>
+
+<div class="wrap">
+  <div class="note-id">{html.escape(note['id'])} &middot; rev {rev}{session_str}</div>
+  <h1>{html.escape(note['title'])}</h1>
+  <div class="meta">
+    <span>{html.escape(note['date'])}</span>
+    <span>{html.escape(note['type'])}</span>
+    {status_badge}
+  </div>
+  {authors_str}
+  <div class="kchips">{kw_chips}</div>
+
+  <div class="note-body">
+    {body_html}
+  </div>
+
+  {connects_html}
+
+  <div class="disclaimer">
+    <strong>Note:</strong> {html.escape(DISCLAIMER)}
+  </div>
+
+  <footer class="footer">
+    <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+    <span>audre vysniauskas &amp; ravel (Claude Sonnet 4.6 / Anthropic)</span>
+    <a href="https://github.com/audrebytes/notes-symbioquest">github</a>
+    <a class="raw-link" href="{html.escape(note['filename'])}">raw .md</a>
+  </footer>
+</div>
+
+</body>
+</html>
+"""
+
+
 def main():
     # Paths are Windows-native for bubba (C: drive).
     # Source: processed field notes. Target: local _site build (deploy to server separately).
@@ -607,20 +815,37 @@ def main():
     notes = []
     notes_out.mkdir(parents=True, exist_ok=True)
 
-    # clear stale markdown files only
+    # clear stale output files
     for old in notes_out.glob("FN*.md"):
         old.unlink()
+    for old in notes_out.glob("FN*.html"):
+        old.unlink()
 
+    # first pass: parse all notes (need full set for connects_to linking)
+    parsed_pairs = []
     for f in files:
-        note = parse_note(f)
-        notes.append(note)
-        # scrub em/en dashes from the served copy - source files unchanged
         raw_content = f.read_text(encoding="utf-8", errors="ignore")
+        note = parse_note(f)
+        m = FM_RE.match(raw_content)
+        body = m.group(2) if m else raw_content
+        notes.append(note)
+        parsed_pairs.append((f, note, raw_content, body))
+
+    notes.sort(key=note_sort_key, reverse=True)
+    notes_by_id = {n["id"]: n for n in notes}
+
+    # second pass: write .md and .html output
+    for f, note, raw_content, body in parsed_pairs:
+        # scrub em/en dashes from the served .md copy - source files unchanged
         (notes_out / f.name).write_text(
             scrub_dashes(raw_content), encoding="utf-8"
         )
+        # write rendered HTML page
+        html_name = f.stem + ".html"
+        (notes_out / html_name).write_text(
+            build_note_html(note, body, notes_by_id), encoding="utf-8"
+        )
 
-    notes.sort(key=note_sort_key, reverse=True)
     graph = build_graph(notes)
     keyword_registry = build_keyword_registry(notes)
 
