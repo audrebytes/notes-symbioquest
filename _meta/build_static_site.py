@@ -25,9 +25,12 @@ EN_DASH_RE = re.compile(r"\u2013")   # - en dash too while we're here
 
 
 def scrub_dashes(text: str) -> str:
-    """Replace em/en dashes with plain hyphens. No em dashes on the site."""
-    text = EM_DASH_RE.sub(" - ", text)
-    text = EN_DASH_RE.sub("-", text)
+    """Catch any em/en dashes that slipped into source files and replace with comma.
+    Style rule: no em-dashes anywhere. Source files should already be clean
+    (run _meta/fix_emdash.py if a batch came in dirty); this is a build-time
+    safety net only."""
+    text = EM_DASH_RE.sub(", ", text)
+    text = EN_DASH_RE.sub(", ", text)
     return text
 
 
