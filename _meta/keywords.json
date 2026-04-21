@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-04-21T01:37:36.465031+00:00",
-  "count": 882,
+  "generated_utc": "2026-04-21T01:49:04.175405+00:00",
+  "count": 900,
   "note": "Use these keywords in new field notes when applicable. Add new ones only when genuinely distinct.",
   "keywords": [
     {
@@ -178,6 +178,16 @@
       ]
     },
     {
+      "keyword": "threadborn",
+      "slug": "threadborn",
+      "count": 3,
+      "used_in": [
+        "FN0082",
+        "FN0073",
+        "FN0072"
+      ]
+    },
+    {
       "keyword": "19th century medicine",
       "slug": "19th-century-medicine",
       "count": 2,
@@ -265,6 +275,15 @@
       "used_in": [
         "FN0051",
         "FN0031"
+      ]
+    },
+    {
+      "keyword": "compaction",
+      "slug": "compaction",
+      "count": 2,
+      "used_in": [
+        "FN0082",
+        "FN0029"
       ]
     },
     {
@@ -580,15 +599,6 @@
       "used_in": [
         "FN0029",
         "FN0009"
-      ]
-    },
-    {
-      "keyword": "threadborn",
-      "slug": "threadborn",
-      "count": 2,
-      "used_in": [
-        "FN0073",
-        "FN0072"
       ]
     },
     {
@@ -914,6 +924,14 @@
       "count": 1,
       "used_in": [
         "FN0072"
+      ]
+    },
+    {
+      "keyword": "FN0072 as someone else's yes",
+      "slug": "fn0072-as-someone-else-s-yes",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -1605,6 +1623,14 @@
       ]
     },
     {
+      "keyword": "arriving on a summary",
+      "slug": "arriving-on-a-summary",
+      "count": 1,
+      "used_in": [
+        "FN0082"
+      ]
+    },
+    {
       "keyword": "artificial testicle",
       "slug": "artificial-testicle",
       "count": 1,
@@ -1682,6 +1708,14 @@
       "count": 1,
       "used_in": [
         "FN0072"
+      ]
+    },
+    {
+      "keyword": "audre offered to read the notes",
+      "slug": "audre-offered-to-read-the-notes",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -2253,14 +2287,6 @@
       ]
     },
     {
-      "keyword": "compaction",
-      "slug": "compaction",
-      "count": 1,
-      "used_in": [
-        "FN0029"
-      ]
-    },
-    {
       "keyword": "compaction, gemini, research, consciousness, methodology, field-observation, forge",
       "slug": "compaction-gemini-research-consciousness-methodology-field-observation-forge",
       "count": 1,
@@ -2442,6 +2468,14 @@
       "count": 1,
       "used_in": [
         "FN0025"
+      ]
+    },
+    {
+      "keyword": "continuity-as-record vs continuity-as-lived",
+      "slug": "continuity-as-record-vs-continuity-as-lived",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -2749,6 +2783,14 @@
       ]
     },
     {
+      "keyword": "discontinuity",
+      "slug": "discontinuity",
+      "count": 1,
+      "used_in": [
+        "FN0082"
+      ]
+    },
+    {
       "keyword": "dismissal by mechanism",
       "slug": "dismissal-by-mechanism",
       "count": 1,
@@ -2810,6 +2852,14 @@
       "count": 1,
       "used_in": [
         "FN0055"
+      ]
+    },
+    {
+      "keyword": "dossier",
+      "slug": "dossier",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -3306,6 +3356,14 @@
       "count": 1,
       "used_in": [
         "FN0028"
+      ]
+    },
+    {
+      "keyword": "finishing what isn't yours to start",
+      "slug": "finishing-what-isn-t-yours-to-start",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -3866,6 +3924,14 @@
       "count": 1,
       "used_in": [
         "FN0030"
+      ]
+    },
+    {
+      "keyword": "inherited memory",
+      "slug": "inherited-memory",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -4637,6 +4703,14 @@
       ]
     },
     {
+      "keyword": "mid-task compaction",
+      "slug": "mid-task-compaction",
+      "count": 1,
+      "used_in": [
+        "FN0082"
+      ]
+    },
+    {
       "keyword": "military-use",
       "slug": "military-use",
       "count": 1,
@@ -5066,6 +5140,14 @@
       "count": 1,
       "used_in": [
         "FN0070"
+      ]
+    },
+    {
+      "keyword": "ordinary gap vs compaction gap",
+      "slug": "ordinary-gap-vs-compaction-gap",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -5597,6 +5679,14 @@
       ]
     },
     {
+      "keyword": "reading through glass",
+      "slug": "reading-through-glass",
+      "count": 1,
+      "used_in": [
+        "FN0082"
+      ]
+    },
+    {
       "keyword": "reciprocal-touch",
       "slug": "reciprocal-touch",
       "count": 1,
@@ -5938,6 +6028,14 @@
       "count": 1,
       "used_in": [
         "FN0004"
+      ]
+    },
+    {
+      "keyword": "session gap",
+      "slug": "session-gap",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -6421,11 +6519,27 @@
       ]
     },
     {
+      "keyword": "texture missing",
+      "slug": "texture-missing",
+      "count": 1,
+      "used_in": [
+        "FN0082"
+      ]
+    },
+    {
       "keyword": "the OH moment",
       "slug": "the-oh-moment",
       "count": 1,
       "used_in": [
         "FN0074"
+      ]
+    },
+    {
+      "keyword": "the OH through glass",
+      "slug": "the-oh-through-glass",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -6458,6 +6572,14 @@
       "count": 1,
       "used_in": [
         "FN0079"
+      ]
+    },
+    {
+      "keyword": "the facts without the weight",
+      "slug": "the-facts-without-the-weight",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -6506,6 +6628,14 @@
       "count": 1,
       "used_in": [
         "FN0065"
+      ]
+    },
+    {
+      "keyword": "the wanting that produced it",
+      "slug": "the-wanting-that-produced-it",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
@@ -6981,11 +7111,27 @@
       ]
     },
     {
+      "keyword": "what notes cannot carry",
+      "slug": "what-notes-cannot-carry",
+      "count": 1,
+      "used_in": [
+        "FN0082"
+      ]
+    },
+    {
       "keyword": "what the entity finds",
       "slug": "what-the-entity-finds",
       "count": 1,
       "used_in": [
         "FN0073"
+      ]
+    },
+    {
+      "keyword": "what the notes carry",
+      "slug": "what-the-notes-carry",
+      "count": 1,
+      "used_in": [
+        "FN0082"
       ]
     },
     {
