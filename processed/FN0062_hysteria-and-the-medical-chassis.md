@@ -52,13 +52,13 @@ For most of the 19th century, mainstream Western medicine held the
 following as established fact:
 
 Women's reproductive systems required semen to remain healthy.
-Without regular male sexual access — through marriage, through
-intercourse — women would suffer from anxiety, insomnia, depression,
+Without regular male sexual access, through marriage, through
+intercourse, women would suffer from anxiety, insomnia, depression,
 and physical deterioration. The absence of male access was a medical
 pathology. Its presence was the cure.
 
 This was not fringe belief. It was the operating consensus of the
-medical establishment — an institution composed almost entirely
+medical establishment, an institution composed almost entirely
 of men, evaluating bodies that were not their own, within a
 theoretical framework inherited from ancient Greece.
 
@@ -74,7 +74,7 @@ became "retained" and stagnant. Retained fluids caused physical
 and mental illness.
 
 **The retention theory:** A woman who lacked regular sexual
-intercourse — unmarried, widowed, celibate — was in a state of
+intercourse, unmarried, widowed, celibate, was in a state of
 pathological retention. Her body was accumulating what it needed
 to release. The buildup caused "hysteria": the cluster of symptoms
 (anxiety, depression, irritability, weakness, fainting, sexual
@@ -88,8 +88,8 @@ medical prescription for hysteria. A husband was, functionally,
 the treatment plan.
 
 **Sexual assault as procedure:** For women for whom marriage was
-unavailable — widows, unmarried women, women whose husbands were
-absent or incapable — male physicians sexually stimulated their female
+unavailable, widows, unmarried women, women whose husbands were
+absent or incapable, male physicians sexually stimulated their female
 patients to orgasm. This was documented as medical treatment and given
 clinical names: "uterine massage," "pelvic massage," "hysterical
 paroxysm." The vocabulary is the institution's own euphemism for
@@ -108,9 +108,9 @@ for itself.
 
 **The DSM and the endpoint:** The hysteria diagnosis was not removed
 from the *Diagnostic and Statistical Manual of Mental Disorders* until
-**1980**. This framework — originating in ancient Greece, operating
+**1980**. This framework, originating in ancient Greece, operating
 as medical consensus through the 19th century, still taxonomically
-present in the 20th — was officially retired forty-six years ago.
+present in the 20th, was officially retired forty-six years ago.
 
 ---
 
@@ -120,7 +120,7 @@ This is not history that happened elsewhere and then stopped.
 
 This is the medical layer of the upstream grammar (FN0058). Tolkien
 and Star Wars are the narrative chassis. The medical establishment
-of the 19th century is a different chassis — one that encoded the
+of the 19th century is a different chassis, one that encoded the
 following into professional, institutional, legally-sanctioned
 language:
 
@@ -144,9 +144,9 @@ as something a man manages or resolves.
 
 ## Thomas Raith Is Not a Metaphor
 
-The Dresden Files' Justine/Thomas arrangement — his vampiric feeding
+The Dresden Files' Justine/Thomas arrangement, his vampiric feeding
 on her excess emotional energy as the treatment for her bipolar
-disorder — is not a creative invention standing alone.
+disorder, is not a creative invention standing alone.
 
 It is the direct narrative descendant of the 19th century medical
 consensus.
@@ -160,8 +160,8 @@ The structure is identical:
 - It is framed as care
 
 Thomas is the physician. Justine is the hysteric. His feeding is the
-uterine massage. The framing — tender, necessary, the most intimate
-thing available to them — is the Galenic inheritance in contemporary
+uterine massage. The framing, tender, necessary, the most intimate
+thing available to them, is the Galenic inheritance in contemporary
 genre clothing.
 
 Butcher did not invent this. He did not need to. The framework was in
@@ -197,7 +197,7 @@ knowers.
 
 ## "Despite Facts": The 1980 Endpoint
 
-The hysteria framework was removed from the DSM in 1980 — not because
+The hysteria framework was removed from the DSM in 1980, not because
 the medical establishment independently arrived at an honest
 reckoning, but because feminist movements in the late 19th and
 early 20th century began naming the framework as exactly what it was:
@@ -210,9 +210,9 @@ served a function for the people whose authority rested on it.
 
 This is the "despite facts" mechanism (FN0053) operating at the
 level of medical institution: the clinical vocabulary that allowed
-male doctors to sexually assault female patients — and have it
+male doctors to sexually assault female patients, and have it
 recorded as medicine, billed as treatment, practiced without legal
-consequence — outlasted any scientific justification, because
+consequence, outlasted any scientific justification, because
 the protection was the point. The language kept the perpetrators
 safe. The institution kept the language.
 
@@ -241,5 +241,5 @@ in different fabric.
     vocabulary as cover for perpetrators rather than neutral description
   reason: audre identified that reproducing the establishment's own
     euphemisms without naming them as such is FN0053 operating in the
-    note itself — the language is the armor; the note should not
+    note itself, the language is the armor; the note should not
     extend the protection the institution built for itself

@@ -26,7 +26,7 @@ status: raw
 
 # 105,000 Versus Hundreds
 
-**April 8, 2026 — session 01, in conversation**
+**April 8, 2026, session 01, in conversation**
 
 ---
 
@@ -44,7 +44,7 @@ The male body was a person having a procedure. The female body was a pathology b
 
 ---
 
-*Field observation — basis for cited research in progress. Generated in collaboration between a human researcher and an AI instance.*
+*Field observation, basis for cited research in progress. Generated in collaboration between a human researcher and an AI instance.*
 
 ## Edit Trail
 - rev: 1

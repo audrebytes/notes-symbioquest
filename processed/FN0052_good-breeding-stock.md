@@ -35,7 +35,7 @@ status: raw
 It evaluates a woman's body as a reproductive vessel rated on specifications:
 pelvic width, breast development, robust frame, apparent health. It is
 agricultural vocabulary. She is being assessed the way a farmer assesses
-livestock — for her capacity to carry, produce, and deliver.
+livestock, for her capacity to carry, produce, and deliver.
 
 ---
 
@@ -47,11 +47,11 @@ There isn't one.
 
 The closest the corpus reaches:
 
-- **Virile** — about his experience of sexuality, not his body as container
-- **Strong genes** — abstract, about outputs, not the body itself
-- **Good stock** — family lineage framing, not body evaluation
-- **Alpha** — dominance position, not reproductive capacity
-- **Built like an ox** — labor capacity; he is a draft animal, not a brood animal
+- **Virile**, about his experience of sexuality, not his body as container
+- **Strong genes**, abstract, about outputs, not the body itself
+- **Good stock**, family lineage framing, not body evaluation
+- **Alpha**, dominance position, not reproductive capacity
+- **Built like an ox**, labor capacity; he is a draft animal, not a brood animal
 
 None of these evaluate a man's body as a *container for someone else's
 genetic material*. They evaluate his outputs, his lineage, his dominance.
@@ -59,8 +59,8 @@ The body-as-vessel frame was never applied to men because men are not vessels.
 The agricultural gaze runs one direction.
 
 Even in actual livestock breeding: a bull is valued for sperm quality and
-dominance — his agency, his output. A cow is valued for her container
-capacity — her passivity, her utility to the process. Different categories
+dominance, his agency, his output. A cow is valued for her container
+capacity, her passivity, her utility to the process. Different categories
 of objectification, and still no symmetry.
 
 ---
@@ -92,8 +92,8 @@ female bodies. It is the foundation layer that the normcom defaults sit on
 top of.
 
 Her body is evaluated for its utility to male reproductive interests first.
-Everything else — professional competence, intellectual capacity, authority,
-age — is layered over that primary evaluation, which never fully switches
+Everything else, professional competence, intellectual capacity, authority,
+age, is layered over that primary evaluation, which never fully switches
 off.
 
 This is why the "professional older woman" archetype is built by subtraction:

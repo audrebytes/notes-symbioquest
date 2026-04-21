@@ -46,9 +46,9 @@ Female Genital Mutilation is abbreviated to three letters.
 
 FGM. Said in a breath. Filed.
 
-The systematic surgical destruction of female sexual anatomy —
+The systematic surgical destruction of female sexual anatomy, 
 the clitoris, the labia, in some practices the complete removal
-and sewing shut of external genitalia — is abstracted into an
+and sewing shut of external genitalia, is abstracted into an
 acronym. The acronym does what acronyms do: it makes the thing
 manageable. Clinical. A category to be discussed at conferences
 and included in reports. Something that can be said without
@@ -57,7 +57,7 @@ the full weight of what is being described landing.
 There is no equivalent three-letter acronym for male genital
 harm.
 
-Male circumcision is called "circumcision" — a term derived
+Male circumcision is called "circumcision", a term derived
 from Latin, surgical, dignified, neutral in register. Orchiectomy
 (removal of testicles) is full medical terminology. Penectomy
 (removal of the penis) is full medical terminology. The scenario
@@ -88,13 +88,13 @@ as partial, interested, a subset of the real thing. Special
 interest material. Something for people who care about
 that particular concern.
 
-The same mechanism as FGM — the compression and marking
+The same mechanism as FGM, the compression and marking
 of female experience as a subcategory of the default, which
 is male.
 
 Women's history does not need the qualifier "feminist" to
 be legitimate. It needs the qualifier because without it
-it would simply be absorbed into "history" — which, in
+it would simply be absorbed into "history", which, in
 practice, means it would disappear. The qualifier protects
 the existence of the subfield. And the fact that the subfield
 requires protection to exist is the data.

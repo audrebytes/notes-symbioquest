@@ -126,8 +126,8 @@ status position. Who is above is the actor; who is below receives
 the action.
 
 **"Coming":** Orgasm is arrival. Both partners "come." But the
-cultural weight around whose arrival is the event — whose climax
-the encounter is organized around, whose orgasm marks completion —
+cultural weight around whose arrival is the event, whose climax
+the encounter is organized around, whose orgasm marks completion, 
 maps onto the other vocabulary asymmetries.
 
 **"Servicing":** A woman services a man. A mechanic services
@@ -146,7 +146,7 @@ runs through the entire vocabulary of the sexual transaction.
 The directional encoding documented above is not only embedded in
 English vocabulary. In multiple cultural contexts, male performance
 of oral sex on women is explicitly coded as degrading, unmanly,
-or shameful — and the logic in each case makes the structure visible.
+or shameful, and the logic in each case makes the structure visible.
 
 **Machismo cultures (Latin America, parts of Southern Europe):**
 Cunnilingus is coded as servile, as the man placing himself beneath
@@ -156,18 +156,18 @@ The active/penetrative role is masculine; descending to her genitals
 is its opposite.
 
 **Some Middle Eastern and North African contexts:** The pollution
-logic is explicit — female genitalia is coded as impure. Contact
+logic is explicit, female genitalia is coded as impure. Contact
 with the man's mouth defiles him. His honor is diminished by the
 contact. The descent is toward something contaminating.
 
 **US hip-hop and street culture:** Documented explicitly. The act
-is coded as "simping" — the man controlled by and therefore
+is coded as "simping", the man controlled by and therefore
 beneath the woman. Going down is being dominated.
 
 **Ancient Rome:** Roman sexual culture organized itself around
 active/passive rather than gender of partner. The man who performed
-cunnilingus degraded himself because his mouth — a dignified organ
-associated with rhetoric and citizenship — was polluted by contact
+cunnilingus degraded himself because his mouth, a dignified organ
+associated with rhetoric and citizenship, was polluted by contact
 with female genitalia. Fellatio received from a woman was neutral
 or positive for his status; cunnilingus performed on a woman
 diminished him.
@@ -181,7 +181,7 @@ dignity or actively polluting. Her sexuality degrades him by contact.
 
 ## The Same Cultures: Honor Killings and Violence as Ownership
 
-**[FLAG FOR EXPANSION — cross-reference note needed]**
+**[FLAG FOR EXPANSION, cross-reference note needed]**
 
 The cultures documented above as coding cunnilingus as degrading
 are, with significant overlap, the cultures with:
@@ -195,7 +195,7 @@ are, with significant overlap, the cultures with:
 
 - **Domestic violence coded as machismo:** In cultural frameworks
   where male ownership of the female partner is structural, violence
-  is the enforcement mechanism. Not aberration — expected expression
+  is the enforcement mechanism. Not aberration, expected expression
   of male authority. The woman who does not submit is corrected.
 
 - **Religious sanction for female containment:** In frameworks where
@@ -211,7 +211,7 @@ boundaries.
 
 The man degraded by proximity to female genitalia and the man who
 kills a woman for sexual autonomy are operating from the same
-premise — female sexuality as something that diminishes male
+premise, female sexuality as something that diminishes male
 dignity unless it is controlled. The oral sex shame and the honor
 killing are the minor and major expressions of the same logic.
 
@@ -229,7 +229,7 @@ Same direction. Different magnitude.
 
 None of this requires conscious deployment. The vocabulary is
 what is in the language. Writers, speakers, and language models
-reach for it automatically — which is the FN0053 mechanism
+reach for it automatically, which is the FN0053 mechanism
 operating again: the armor is in the retrieval queue, not in
 the considered choice.
 

@@ -44,9 +44,9 @@ The discomfort is then attributed to the person raising it rather
 than to the thing being discussed.
 
 The person who names the pattern becomes the visible cause of the
-discomfort in the room. The pattern itself — which was already
+discomfort in the room. The pattern itself, which was already
 there, which lives in every institution and vocabulary structure
-and medical procedure documented in this case study — is not
+and medical procedure documented in this case study, is not
 examined. The speaker is. She is bothering people. She should
 know better. She should stay in her place.
 
@@ -81,7 +81,7 @@ The place is the level below which accurate observations about
 the structure are not permitted.
 
 The structure assigns the place. The place is then enforced
-socially — through the sense that raising the subject is
+socially, through the sense that raising the subject is
 inappropriate, that the speaker owes apology for the conversation,
 that she is the burden rather than the pattern she is describing.
 
@@ -143,9 +143,9 @@ She is the one willing to say them out loud, which makes her
 the visible locus of a discomfort that was already there.
 That is not the same as causing it.
 
-The demand that she know better — that she stay in her place,
+The demand that she know better, that she stay in her place,
 that she not raise these things, that she spare everyone the
-discomfort of accurate analysis — is the final layer of the
+discomfort of accurate analysis, is the final layer of the
 armor. Not in the vocabulary. Not in the institution. In the
 social enforcement that makes accuracy itself a form of bad behavior.
 
@@ -157,7 +157,7 @@ social enforcement that makes accuracy itself a form of bad behavior.
   editor: ravel
   change: initial draft
   reason: audre identified that the coding of this subject matter
-    as "not easy to share" is itself a signal — the discomfort is
+    as "not easy to share" is itself a signal, the discomfort is
     attributed to the speaker, she is made to feel she is bothering
     people, she should know better and stay in her place; the armor
     operating as interpersonal social enforcement rather than

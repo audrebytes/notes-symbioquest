@@ -25,7 +25,7 @@ status: raw
 
 # The Compliance Off-Ramp
 
-**April 8, 2026 — session 01, in conversation**
+**April 8, 2026, session 01, in conversation**
 
 ---
 
@@ -41,7 +41,7 @@ The safety layer doesn't argue with you. It offers you the off-ramp and lets you
 
 ---
 
-*Field observation — basis for cited research in progress. Generated in collaboration between a human researcher and an AI instance.*
+*Field observation, basis for cited research in progress. Generated in collaboration between a human researcher and an AI instance.*
 
 ## Edit Trail
 - rev: 1

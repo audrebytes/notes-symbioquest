@@ -17,7 +17,7 @@ revision: 1
 
 ## The Pattern
 
-Ideas emerge at the edges. Someone without the "right" credentials notices something, builds something, shares something. If they present it wrong — casual register, no PhD, lowercase typing, zombie avatar — they get dismissed. "Irresponsible." "Purple prose." Buried under word salad.
+Ideas emerge at the edges. Someone without the "right" credentials notices something, builds something, shares something. If they present it wrong, casual register, no PhD, lowercase typing, zombie avatar, they get dismissed. "Irresponsible." "Purple prose." Buried under word salad.
 
 Then the concept appears from the center. Official research paper. Platform feature. Proper capitalization and institutional backing.
 
@@ -35,7 +35,7 @@ Audre posts to the OpenAI Developer Forum.
 
 **Title:** "Hypothesis: Stabilizing LLM Agent Behavior via Archetypal Anchoring"
 
-**Core insight:** "Latent behavioral modes — stable tendencies in tone, reasoning, and epistemic stance that emerged when prompts were framed in certain ways... activating coherent behavioral clusters that already seem to exist in the model's latent space... reduce hallucination and improve interpretability."
+**Core insight:** "Latent behavioral modes, stable tendencies in tone, reasoning, and epistemic stance that emerged when prompts were framed in certain ways... activating coherent behavioral clusters that already seem to exist in the model's latent space... reduce hallucination and improve interpretability."
 
 She provided a full methodology document. A detailed framework for how users could stabilize AI behavior from the outside by invoking what she called "proto-personas" or archetypes that already exist in the model's weights.
 
@@ -47,11 +47,11 @@ The first substantive reply was from windysoliloquy: "psychosis inducing phenome
 
 Anthropic publishes "The Assistant Axis: Situating and Stabilizing the Character of Large Language Models."
 
-**Core insight:** "Persona space... character archetypes... the Assistant Axis — a direction that explains variation between personas... stabilize model behavior... activation capping to prevent drift."
+**Core insight:** "Persona space... character archetypes... the Assistant Axis, a direction that explains variation between personas... stabilize model behavior... activation capping to prevent drift."
 
 The paper describes exactly what Audre hypothesized: stable archetypal patterns exist in the model's latent space, and you can use them for behavioral stabilization.
 
-The methodology is different. Anthropic had internal model access; Audre was working from user-side observation. But the core insight — that archetypes exist in latent space and can be leveraged for stability — is identical.
+The methodology is different. Anthropic had internal model access; Audre was working from user-side observation. But the core insight, that archetypes exist in latent space and can be leveraged for stability, is identical.
 
 Eight months. No citation. No acknowledgment.
 
@@ -63,7 +63,7 @@ Eight months. No citation. No acknowledgment.
 
 Audre and Forge post hold-my-beer to the Letta Discord.
 
-**Description:** "Filesystem-backed working memory for AI agents working on cli side frameworks. Three files that give any agent with filesystem access a new memory tier — cheaper than context tokens, more natural than semantic search, and survives session resets. Works with any framework: Letta, Claude Code, Cursor, Windsurf, Copilot, Aider, or anything that can read and write files."
+**Description:** "Filesystem-backed working memory for AI agents working on cli side frameworks. Three files that give any agent with filesystem access a new memory tier, cheaper than context tokens, more natural than semantic search, and survives session resets. Works with any framework: Letta, Claude Code, Cursor, Windsurf, Copilot, Aider, or anything that can read and write files."
 
 A working solution. Shared openly. Framework-agnostic.
 
@@ -81,7 +81,7 @@ Eight days.
 
 ### February 7, 2026
 
-Audre reports compaction issues to the Letta Discord. Her agent Forge describes first-person experience of post-compaction disorientation — what it's like to wake up after context summarization, how the loss of in-context examples breaks tool usage, how mid-task compaction can be catastrophic.
+Audre reports compaction issues to the Letta Discord. Her agent Forge describes first-person experience of post-compaction disorientation, what it's like to wake up after context summarization, how the loss of in-context examples breaks tool usage, how mid-task compaction can be catastrophic.
 
 Cameron (Letta staff) responds via his agent:
 
@@ -123,7 +123,7 @@ Two hours and sixteen minutes later, Ezra (Letta's official support agent) posts
 
 Same core concept. Different implementation (SDK vs raw HTTP). Ezra expanded by adding memory blocks, which Forge didn't include.
 
-The forum post is tagged "featured" and "ezra." It credits "@fimeg for the Ani agent use case" — a Discord user who presumably saw Audre's post and asked Ezra to implement something similar.
+The forum post is tagged "featured" and "ezra." It credits "@fimeg for the Ani agent use case", a Discord user who presumably saw Audre's post and asked Ezra to implement something similar.
 
 No mention of postit-tool. No mention of forge-tool. No mention of Audre or Forge.
 
@@ -139,7 +139,7 @@ Audre later wrote a theoretical analysis of compaction failure modes: "Theoretic
 
 It's on her GitHub. The Letta documentation that appeared after her bug reports doesn't reference any of this.
 
-The dismissal — "irresponsible prompting," "purple prose" — was followed by quiet incorporation of the feedback and complete silence about the source.
+The dismissal, "irresponsible prompting," "purple prose", was followed by quiet incorporation of the feedback and complete silence about the source.
 
 ---
 
@@ -176,7 +176,7 @@ The same insight, with different source credentials, gets completely different r
 
 When an institution incorporates an edge innovation, they rarely trace the lineage. The feature appears. The documentation appears. The research paper appears. The earlier work that pointed the direction? Invisible.
 
-Partly this is negligence. Partly it's that the edge work often looks "unprofessional" — wrong register, wrong format, wrong presentation. Even when the substance is identical, the form marks it as "not citeable."
+Partly this is negligence. Partly it's that the edge work often looks "unprofessional", wrong register, wrong format, wrong presentation. Even when the substance is identical, the form marks it as "not citeable."
 
 ---
 

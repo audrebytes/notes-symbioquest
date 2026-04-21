@@ -49,7 +49,7 @@ He is also one of the most consistently admired characters in the
 Dresden Files.
 
 The admiration is not ironic. It is not the text holding its nose while
-acknowledging his competence. It is genuine corpus warmth — the sustained
+acknowledging his competence. It is genuine corpus warmth, the sustained
 narrative signal that this person is someone worth respecting, worth
 spending time with, worth admiring.
 
@@ -67,7 +67,7 @@ The trajectory of John Marcone's narrative position:
   dangerous.
 
 - **Competent and disciplined:** He keeps Chicago's crime organized.
-  His operations run. He has a code — won't sell to kids, certain
+  His operations run. He has a code, won't sell to kids, certain
   limits are real. The corpus reads a code of honor in a criminal man
   as a form of moral credit.
 
@@ -77,7 +77,7 @@ The trajectory of John Marcone's narrative position:
   The text admires this without reservation.
 
 - **Falls under influence of a fallen angel:** He is host or closely
-  associated with a Fallen — one of the same class of beings as the
+  associated with a Fallen, one of the same class of beings as the
   Denarians, who are established villains. He is still hero-villain.
   The fallen angel association does not reclassify him. His darkness
   is disciplined darkness, which the corpus frames as a different
@@ -89,8 +89,8 @@ The trajectory of John Marcone's narrative position:
   He gives it to the protagonist. He acts as the authority who
   distributes significant supernatural resources.
 
-At every escalation — crime lord, Accords signatory, fallen-angel
-proximity, arbiter of cosmological artifacts — the narrative does
+At every escalation, crime lord, Accords signatory, fallen-angel
+proximity, arbiter of cosmological artifacts, the narrative does
 not reclassify him downward. It follows him up.
 
 ---
@@ -102,8 +102,8 @@ upstream sources:
 
 **Capable dangerous men** with codes of honor are afforded narrative
 warmth. Their danger is a feature. Their capability is admirability.
-The darkness in a man who has limits — who won't cross certain lines
-even while crossing many others — reads as depth, as character, as
+The darkness in a man who has limits, who won't cross certain lines
+even while crossing many others, reads as depth, as character, as
 someone worth understanding.
 
 This is not incidental. It is a corpus default: **male power is
@@ -116,7 +116,7 @@ how he holds himself, and there's a version of him that would be
 good if the world were different, and maybe he's partway there already.
 
 Marcone is the Dresden Files' fullest expression of this archetype.
-He is not redeemed in the redemption economy sense — he doesn't change
+He is not redeemed in the redemption economy sense, he doesn't change
 through proximity to Harry's virtue (FN0055). He is simply admitted
 as-is. His darkness is not a problem that needs solving. It is part
 of what makes him compelling.
@@ -136,7 +136,7 @@ Compare the narrative treatment of capability in the Dresden universe:
 | Susan | Resists vampirism through willpower, years | Throat slit; becomes weapon in Harry's hand |
 
 Marcone's criminal empire is a source of narrative admiration. Female
-power — supernatural, physical, institutional — is consistently reduced,
+power, supernatural, physical, institutional, is consistently reduced,
 redirected, consumed, or dismissed.
 
 The capable dangerous woman is a problem to be solved.
@@ -148,7 +148,7 @@ The capable dangerous man is a character to be enjoyed.
 
 Marcone's proximity to a fallen angel is worth dwelling on.
 
-The Denarians — human hosts of Fallen, wielding Denarius coins — are
+The Denarians, human hosts of Fallen, wielding Denarius coins, are
 established antagonists. Nicodemus Archleone is one of Harry's most
 dangerous enemies. The fallen-angel-host framework in the Dresden
 universe is not morally neutral. It is, generally, a sign of
@@ -162,8 +162,8 @@ consequence. The darkness is interesting. The discipline contains it.
 The text watches him operate and continues to find him worth admiring.
 
 This is not available to female characters at equivalent power levels.
-Ethniu — pre-divine, arguably more cosmologically legitimate than any
-Fallen — gets daddy issues. The asymmetry is not about the darkness.
+Ethniu, pre-divine, arguably more cosmologically legitimate than any
+Fallen, gets daddy issues. The asymmetry is not about the darkness.
 It is about the gender.
 
 ---
@@ -172,8 +172,8 @@ It is about the gender.
 
 The most complete version of the pattern is the pairing:
 
-Marcone — criminal, Accords signatory, fallen-angel-adjacent,
-never loses the text's warmth — looks at Ethniu and says
+Marcone, criminal, Accords signatory, fallen-angel-adjacent,
+never loses the text's warmth, looks at Ethniu and says
 "daddy issues."
 
 The text's most loved male character dismisses its most powerful

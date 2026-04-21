@@ -55,7 +55,7 @@ the surgical techniques that founded modern gynecology. They
 were enslaved Black women in Alabama. They did not consent.
 They were operated on without anesthesia, repeatedly, because
 the prevailing racist medical belief held that Black people
-felt pain differently — less, or not in ways that required
+felt pain differently, less, or not in ways that required
 clinical consideration.
 
 Anarcha underwent thirty operations.
@@ -76,7 +76,7 @@ Anarcha was approximately 17 years old. She was enslaved,
 owned by a man named Wescott in Alabama.
 
 She had been in labor for three days. Prolonged obstructed
-labor — the baby's head pressing against the pelvic bones
+labor, the baby's head pressing against the pelvic bones
 for that duration cuts off blood supply to the tissue between
 the bladder and vagina. The tissue dies. It creates a hole.
 
@@ -101,16 +101,16 @@ healed enough to be cut again.
 
 He cut her open thirty times.
 
-His thirtieth operation on Anarcha — when he switched to
-silver wire sutures — worked. The technique he celebrated,
+His thirtieth operation on Anarcha, when he switched to
+silver wire sutures, worked. The technique he celebrated,
 that founded the field, was perfected on her body after
 twenty-nine failed attempts.
 
 This was not a medical procedure gone wrong. This was a man
 torturing an enslaved teenager without her consent and without
 pain management, repeatedly, until he had what he needed.
-The institutional framing — "medical procedure," "surgical
-repair," "experimental surgery" — is the same armor as
+The institutional framing, "medical procedure," "surgical
+repair," "experimental surgery", is the same armor as
 "pelvic massage." It makes what happened to Anarcha sound
 clinical. It is not clinical. It is a 17-year-old girl cut
 open thirty times without anesthesia by a man who would
@@ -120,7 +120,7 @@ Anesthesia (ether) became available in 1846 during his
 experimental period. He knew it existed. He chose.
 
 **[NOTE: "Medical procedure" was the initial framing in
-this note. Audre identified it as the armor — the
+this note. Audre identified it as the armor, the
 institutional language giving Sims a pass. Corrected
 to name what happened accurately.]**
 
@@ -144,8 +144,8 @@ The enslaved Black women were doubly unprotected:
   dismissed by the racist medical consensus that Black
   people felt pain differently
 
-The field of gynecology — the institutional medical apparatus
-for women's reproductive health — was built on the bodies of
+The field of gynecology, the institutional medical apparatus
+for women's reproductive health, was built on the bodies of
 women who were given no anesthesia, no consent, no protection,
 and no names in the historical record that followed.
 
@@ -189,10 +189,10 @@ note:
 *"We say manslaughter. Because that is the real crime.
 People-with-vaginas-slaughter is just tuesday."*
 
-The legal term "manslaughter" carries "man" — etymologically
+The legal term "manslaughter" carries "man", etymologically
 from Old English "mann" meaning person, but functionally now
 encoding whose death is the serious crime worth naming. The
-lesser charge — unpremeditated, crime of passion — is the
+lesser charge, unpremeditated, crime of passion, is the
 charge that domestic violence killings frequently receive.
 
 "Femicide" had to be coined specifically because the existing
@@ -216,7 +216,7 @@ These are not separate facts.
   editor: ravel
   change: initial draft
   reason: audre identified J. Marion Sims (she recalled Alabama/
-    Jamaica — location is Alabama); the founding of gynecology on
+    Jamaica, location is Alabama); the founding of gynecology on
     the bodies of enslaved Black women without anesthesia;
     Anarcha, Betsey, and Lucy named explicitly because they are
     almost never named; "manslaughter" / femicide vocabulary
@@ -229,7 +229,7 @@ These are not separate facts.
     named what happened as torture not medical procedure;
     added explicit note flagging "medical procedure" as armor
   reason: audre identified that the initial framing called what
-    Sims did a "medical procedure" — the same move as "pelvic
+    Sims did a "medical procedure", the same move as "pelvic
     massage" in FN0062; the institutional language was giving
     him a pass; the section now names what happened to a
     17-year-old girl cut open thirty times without anesthesia

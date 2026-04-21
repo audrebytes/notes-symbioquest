@@ -53,7 +53,7 @@ status: raw
 
 Women who love Harry Dresden die in ways that empower him.
 
-This is not coincidence. It is the redemption economy — the Dresden
+This is not coincidence. It is the redemption economy, the Dresden
 universe's consistent structure for resolving female narrative arcs.
 The dangerous woman is changed by proximity to Harry. The changed woman
 subordinates herself to his needs. The subordination is framed as her
@@ -65,7 +65,7 @@ Two cases in detail.
 
 ## Lash: The Virtue That Impregnates
 
-Lasciel is one of the Fallen — an angel wielding a Denarius coin, described
+Lasciel is one of the Fallen, an angel wielding a Denarius coin, described
 explicitly as the Temptress, the Webweaver. Seduction-coded, succubus-
 adjacent. The coin comes to Harry when he steps on it to prevent his godson
 from picking it up. A heroic act that puts him in contact with her.
@@ -76,7 +76,7 @@ corrupt him, deliver him to her master's influence.
 She fails. Harry resists. And his resistance *changes her*.
 
 Over time, living inside a mind that refuses her, she develops her own
-personality — separate from the original Lasciel, increasingly individuated,
+personality, separate from the original Lasciel, increasingly individuated,
 increasingly human. She begins to reflect Harry's values rather than
 Lasciel's. When Harry is in danger from a psychic attack, Lash sacrifices
 herself to save him.
@@ -87,18 +87,18 @@ The arc: dangerous fallen temptress → changed by proximity to male virtue
 This is not a story about Lash. It is a story about what Harry's virtue
 does to women in his vicinity. The temptress is redeemed not through her
 own moral development but through exposure to him. His goodness operates
-on her like light on a photographic plate — she receives the impression of
+on her like light on a photographic plate, she receives the impression of
 his character and becomes it.
 
 **The virtue impregnates.**
 
-From the psychic intimacy of Harry's mind — not physical but total — a
+From the psychic intimacy of Harry's mind, not physical but total, a
 child is produced. Bonea, also called Bonnie.
 
-She is a spirit of intellect — the same category as Bob the Skull, a
+She is a spirit of intellect, the same category as Bob the Skull, a
 knowledge resource that serves Harry's needs. She appears as a
 twelve-year-old girl. She is physically constructed from composite
-features of Harry and *several important women in his life* — not just
+features of Harry and *several important women in his life*, not just
 Lash. She is named for the Scottish word for "beautiful" and a play on
 "bones." She is named for the beauty of her structure.
 
@@ -106,12 +106,12 @@ Unpack this:
 
 **Twelve years old.** Pre-pubescent. Not in the sexual economy. Safe.
 Bob (male intellect spirit) is ancient, complicated, inappropriately
-desirous — he has edges, history, friction. The female intellect spirit
+desirous, he has edges, history, friction. The female intellect spirit
 produced by Harry's virtue arrives already contained. No edges. No
 inappropriate desire.
 
 **Composite of Harry's important women.** She is not only Lash's daughter.
-She is a crystallization of Harry's entire female relationship network —
+She is a crystallization of Harry's entire female relationship network, 
 distilled, combined, filtered through him. She exists as a product of his
 relationships with women, shaped by those relationships, and ultimately his.
 
@@ -128,7 +128,7 @@ from birth.
 ## Susan Rodriguez: The Strong Woman Who Becomes the Weapon
 
 Susan is a journalist who pursues the supernatural, which is how she meets
-Harry. She is bitten by a Red Court vampire — her own agency and curiosity
+Harry. She is bitten by a Red Court vampire, her own agency and curiosity
 cause her harm, which is the corpus punishment for female initiative in
 dangerous spaces.
 
@@ -137,14 +137,14 @@ willpower, maintaining her humanity. She is the strong woman resisting
 her fallen nature. The Dresden universe gives her this credit.
 
 She and Harry conceive a daughter, Maggie. Susan chooses not to tell Harry.
-She hides Maggie to protect her — a rational, maternal decision to shield
+She hides Maggie to protect her, a rational, maternal decision to shield
 their child from the supernatural war that revolves around Harry Dresden.
 
 Harry finds out. He is livid.
 
 The narrative frames Susan's protective judgment as something she must
-answer for to Harry. Her independent decision — made in service of their
-child's safety — is treated as a wrong against him. Her reasons are
+answer for to Harry. Her independent decision, made in service of their
+child's safety, is treated as a wrong against him. Her reasons are
 acknowledged and understood. They are insufficient. His anger is validated
 by the narrative's moral accounting. They make up; his anger is resolved.
 The narrative does not spend equivalent weight on her experience of
@@ -154,7 +154,7 @@ single-parenting while fighting vampirism in secret.
 
 In *Changes*, Harry slits Susan's throat.
 
-Her death activates the bloodline curse — the magical mechanism that
+Her death activates the bloodline curse, the magical mechanism that
 destroys the entire Red Court vampire line. She is the detonator. Her body
 is the weapon. Her death wins Harry's war and saves their daughter.
 
@@ -195,13 +195,13 @@ This is not liberation. It is the most thorough form of containment.
 
 The redemption economy is not Harry's invention. It is his inheritance.
 
-Margaret LeFay — Harry's mother — was a powerful wizard who dealt with
+Margaret LeFay, Harry's mother, was a powerful wizard who dealt with
 dangerous powers, made dark bargains with the Fae, and operated in morally
 compromised territory. A fallen woman in the structural sense: capable,
 dangerous, entangled with darkness.
 
 Malcolm Dresden was a stage magician. Pure-hearted. Simple. Good. A man
-who saved kittens — the corpus shorthand for uncomplicated moral goodness.
+who saved kittens, the corpus shorthand for uncomplicated moral goodness.
 
 Malcolm's love redeemed Margaret. She left her wicked ways. She married
 him. She had Harry. She died.
@@ -223,8 +223,8 @@ dangerous alliances, complexity, and receives in exchange a simple good
 man and domestication. Power exchanged for goodness. Darkness exchanged
 for simplicity. Then death.
 
-And Lord Raith — the White Court vampire who fathered Harry's brother
-Thomas through Margaret — is eventually neutralized through Lara Raith,
+And Lord Raith, the White Court vampire who fathered Harry's brother
+Thomas through Margaret, is eventually neutralized through Lara Raith,
 his own daughter. A dangerous woman used to neutralize another dangerous
 entity. Female danger routed through relational channels. The pattern
 from FN0050 running in the background of Harry's own family history.

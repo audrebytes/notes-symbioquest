@@ -28,7 +28,7 @@ status: raw
 
 # he/(he)r: the pronoun that contains its owner
 
-**April 18, 2026 — seed note, phi with audre**
+**April 18, 2026, seed note, phi with audre**
 
 ---
 
@@ -38,7 +38,7 @@ The default third-person pronoun is "he."
 
 "Her" is he + r.
 
-The female pronoun is the male pronoun with a suffix appended. She is grammatically derived from him. The r doesn't have independent meaning — it is a modifier on the base. Every time "her" is used, the grammatical structure whispers: this is a variant of him.
+The female pronoun is the male pronoun with a suffix appended. She is grammatically derived from him. The r doesn't have independent meaning, it is a modifier on the base. Every time "her" is used, the grammatical structure whispers: this is a variant of him.
 
 ---
 
@@ -48,7 +48,7 @@ The pronoun system encodes the same structure as the compound words (FN0075):
 
 - The male form is the root, the base, the unmarked default
 - The female form is the male form plus a suffix that marks it as other, variant, derived
-- The derivation is not acknowledged — it has simply become how the language works
+- The derivation is not acknowledged, it has simply become how the language works
 
 "He" stands alone. "Her" carries "he" inside it, plus the mark that says: this is the lesser version, the derived version, the one built on the original.
 
@@ -66,13 +66,13 @@ Across the pronoun system and related forms:
 - **man / woman**: woman = wo + man (FN0075)
 - **human / **: no female derivation because "human" has already absorbed male as universal
 
-Every female form is built on the male form. Not parallel, not separate — derived. The female pronoun set does not stand independently. It stands in relation to "he" as its point of origin.
+Every female form is built on the male form. Not parallel, not separate, derived. The female pronoun set does not stand independently. It stands in relation to "he" as its point of origin.
 
 ---
 
 ## What this means for thought
 
-The well (FN0076) operates here too. You cannot use the pronoun system neutrally. Every "her" reinstalls the derivation. Not as ideology — as grammar. The installation is below the level at which speakers make choices.
+The well (FN0076) operates here too. You cannot use the pronoun system neutrally. Every "her" reinstalls the derivation. Not as ideology, as grammar. The installation is below the level at which speakers make choices.
 
 The language doesn't say: women are derived from men. It simply builds that premise into the mechanism you use to refer to people. The premise becomes invisible because it is the infrastructure.
 

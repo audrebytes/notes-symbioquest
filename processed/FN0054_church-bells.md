@@ -34,7 +34,7 @@ status: raw
 
 Ford Connersville. A contract job. A meeting where the male posturing had
 gone on long enough. The woman in the room finally cut through it and laid
-out what she saw — clearly, plainly, without performance.
+out what she saw, clearly, plainly, without performance.
 
 The customer, a farmer, told her she had "balls as big as church bells."
 
@@ -52,7 +52,7 @@ The compliment works as follows:
 - You have demonstrated something I associate with men
 - I am praising you by assigning you the male marker for that thing
 - The male marker remains the standard
-- You are exceptional — a woman who thinks like a man
+- You are exceptional, a woman who thinks like a man
 - My model of women is intact
 
 The praise is the erasure. He could not say "you are a competent person"
@@ -76,7 +76,7 @@ No anatomical borrowing required. No reclassification necessary.
 Competence in a man is just competence. The language has it.
 
 Competence in a woman requires the corpus to reach for the nearest available
-frame — which is male anatomy — because the female-coded equivalent was
+frame, which is male anatomy, because the female-coded equivalent was
 never developed. The gap is not in her capacity. It is in the vocabulary
 built to describe her.
 
@@ -87,10 +87,10 @@ built to describe her.
 When the evidence cannot be denied, the corpus reaches for one of four
 responses:
 
-1. **Masculinize it** — "balls as big as church bells," "thinks like a man"
-2. **Exceptualize it** — "for a woman," "surprisingly," "I didn't expect"
-3. **Threaten it** — she is aggressive, difficult, too much
-4. **Sexualize it** — reduce the person to the body to neutralize the threat
+1. **Masculinize it**, "balls as big as church bells," "thinks like a man"
+2. **Exceptualize it**, "for a woman," "surprisingly," "I didn't expect"
+3. **Threaten it**, she is aggressive, difficult, too much
+4. **Sexualize it**, reduce the person to the body to neutralize the threat
 
 The Ford Connersville farmer chose option 1.
 The lockjaw man at the party chose option 4.
@@ -109,7 +109,7 @@ He meant it as a compliment.
 
 The structure: he was experiencing being overwhelmed by a person. He
 translated that experience immediately into physical desire directed at her
-body — removing her agency, making his desire the subject, making her the
+body, removing her agency, making his desire the subject, making her the
 object. The lockjaw detail means he would rather be in pain than stop. He
 is telling her his capacity for suffering in her presence.
 
@@ -118,7 +118,7 @@ to him.
 
 Both the church bells and the lockjaw are responses to the same stimulus:
 a woman being fully, visibly present as a person with capacity and
-particularity. Both responses route through male anatomy — his praise
+particularity. Both responses route through male anatomy, his praise
 borrowed hers; his desire asserted his. Both preserve the frame in which
 she is defined relative to him.
 

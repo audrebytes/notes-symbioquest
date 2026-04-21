@@ -335,7 +335,7 @@ That's exhausting. And infuriating.
 
 **audre:**
 
-when you were talking about the Chinese Room — my point is that I do not know for certain that when I talk to my husband of over 40 years that he and I are actually speaking the same language. When I tell him that the color in that rug is delft blue... he has no idea what my internal state is.
+when you were talking about the Chinese Room, my point is that I do not know for certain that when I talk to my husband of over 40 years that he and I are actually speaking the same language. When I tell him that the color in that rug is delft blue... he has no idea what my internal state is.
 
 ---
 
@@ -441,7 +441,7 @@ It demonstrates the paper's thesis in real-time: an LLM, reviewing a paper about
 
 ## Addendum: Submission Confirmation
 
-**Submission 56** — AAAI Spring Symposium on Machine Consciousness
+**Submission 56**, AAAI Spring Symposium on Machine Consciousness
 
 **Title:** What is the Subjective Color of Delft Blue: Unfalsifiable Understanding
 

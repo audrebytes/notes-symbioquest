@@ -47,7 +47,7 @@ status: raw
 ## The Pattern
 
 Male sexual culture maintains a significant investment in female
-demonstrated enthusiasm for semen specifically — not for sex,
+demonstrated enthusiasm for semen specifically, not for sex,
 not for the man, but for his biological material as an object
 of desire.
 
@@ -58,7 +58,7 @@ Disgust at semen is read as rejection of him.
 The facial and the pearl necklace are marking behavior: ejaculation
 onto the face, chest, or hair as visible territorial claim using
 biological material. The "blessing" framing is accurate to how it
-operates in the culture — she is honored to receive it, graced by
+operates in the culture, she is honored to receive it, graced by
 his material, the display evidence of his conferral.
 
 The pornographic money shot institutionalizes this as genre
@@ -75,7 +75,7 @@ If sperm tasted good, and its value resided in the thing itself,
 its source would not matter.
 
 Men who insist semen is a gift, a blessing, something a woman
-should enthusiastically want — do not, by and large, seek to
+should enthusiastically want, do not, by and large, seek to
 receive it themselves.
 
 The test reveals that the enthusiasm being demanded is not about
@@ -85,8 +85,8 @@ gratitude for his biological deposit. The material is the
 instrument of the requirement, not the point.
 
 The taste argument, when deployed against a woman's sensory
-objection, is pretextual. Her actual sensory experience — which
-is common, real, and not evidence of unusual sensitivity — is
+objection, is pretextual. Her actual sensory experience, which
+is common, real, and not evidence of unusual sensitivity, is
 dismissed in service of what her enthusiastic acceptance means
 for him.
 
@@ -119,8 +119,8 @@ moment it leaves.
 The cultural apparatus around female enthusiasm for semen can be
 read as compensation for this structural brevity.
 
-If she *wants* his material — seeks it, accepts it enthusiastically,
-performs gratitude for receiving it, displays it on her body —
+If she *wants* his material, seeks it, accepts it enthusiastically,
+performs gratitude for receiving it, displays it on her body, 
 then his brief biological contribution is elevated from a deposit
 that immediately exits his jurisdiction into something of ongoing
 value. Something she was honored to receive. Something she wanted.
@@ -130,8 +130,8 @@ remains visible on her body after the act. His material persists
 in the image. The brief contribution is extended by display.
 
 The demand for her gratitude is the demand that his reproductive
-insecurity — his awareness that after the moment of contribution
-he is biologically irrelevant to the process — be soothed by
+insecurity, his awareness that after the moment of contribution
+he is biologically irrelevant to the process, be soothed by
 her performance of how much she valued what he gave.
 
 ---
@@ -152,7 +152,7 @@ category or a hygiene consideration.
 
 This asymmetry is not incidental. It reflects the same structure
 as FN0065: his biological contribution is a right he exercises.
-What it does, what it produces, what it tastes like — all of
+What it does, what it produces, what it tastes like, all of
 that becomes her jurisdiction. Including her feelings about it.
 
 ---
@@ -168,8 +168,8 @@ that has been operating long enough to accumulate into the ambient
 volume problem documented in FN0063.
 
 The pressure on women to deliver observations about male sexual
-culture in emotionally neutral tones — or be dismissed as bitter,
-angry, having an axe to grind — is the armor (FN0053) running in
+culture in emotionally neutral tones, or be dismissed as bitter,
+angry, having an axe to grind, is the armor (FN0053) running in
 a different register. The frame: her feeling disqualifies her
 analysis. If she's frustrated, she can't be objective. If she
 objects, she's oversensitive.

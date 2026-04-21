@@ -43,7 +43,7 @@ status: raw
 
 Bob the Skull is a spirit of intellect who has served wizards for centuries.
 He lives in a skull on Harry Dresden's shelf. He is ancient, knowledgeable,
-and relentlessly lecherous — obsessed with young bodies, with physical
+and relentlessly lecherous, obsessed with young bodies, with physical
 attractiveness, with women as objects of visual consumption. Harry rolls his
 eyes at this. The text presents the eye-roll as the correct response.
 
@@ -52,19 +52,19 @@ eyes at this. The text presents the eye-roll as the correct response.
 ## The Displacement Mechanism
 
 Butcher needs Harry legible as a hero. A hero can notice women but cannot be
-*about* noticing women — that crosses into predator territory and breaks
+*about* noticing women, that crosses into predator territory and breaks
 reader identification. So Harry's sexual appetite is outsourced to Bob, who
 can express it without cost because:
 
-- Bob is ancient — his lechery reads as characterful, a relic of older times,
+- Bob is ancient, his lechery reads as characterful, a relic of older times,
   not Harry's failing
-- Bob cannot act — contained in a skull, the gaze is present but
+- Bob cannot act, contained in a skull, the gaze is present but
   consequence-free
-- Bob is Harry's property — his lechery implicates the vessel, not the owner
+- Bob is Harry's property, his lechery implicates the vessel, not the owner
 - Bob can say what Harry notices but cannot say while remaining sympathetic
 
 The male gaze runs at full power through the text. Harry's heroic framing is
-preserved. Bob takes the reputational cost — which, under the comedy frame,
+preserved. Bob takes the reputational cost, which, under the comedy frame,
 is no cost at all.
 
 ---
@@ -80,7 +80,7 @@ If you find it disturbing, you don't understand the character.
 If you object, you are the problem.
 
 The comedy frame makes objection socially costly. It is not incidental to
-the mechanism — it *is* the mechanism.
+the mechanism, it *is* the mechanism.
 
 Bob cares nothing for the actual people he objectifies. They are visual
 resources, not persons. Women in his orbit are assessed for physical
@@ -112,11 +112,11 @@ argument before they opened their mouth.
 
 The mechanism operates on four levels simultaneously:
 
-1. **Launders** the content — it's comedy, not objectification
-2. **Armors** against objection — you're humorless if you complain
-3. **Recruits** the laughing audience — laughing is participation;
+1. **Launders** the content, it's comedy, not objectification
+2. **Armors** against objection, you're humorless if you complain
+3. **Recruits** the laughing audience, laughing is participation;
    participation is consent
-4. **Marks outsiders** — if you don't find it funny, the text is not for
+4. **Marks outsiders**, if you don't find it funny, the text is not for
    you, and that is framed as your failure
 
 Bob being a *fan favorite* adds a fifth level: objecting to his lechery
@@ -162,7 +162,7 @@ contained.
 
 Same functional role: spirit of intellect serving Harry's needs.
 Different construction: Bob gets edges, history, inappropriate desire.
-His daughter arrives already sanitized — pre-pubescent, aestheticized,
+His daughter arrives already sanitized, pre-pubescent, aestheticized,
 domesticated from birth.
 
 The male intellect spirit is permitted to be lecherous and ancient and
@@ -182,14 +182,14 @@ The text constructs a single coherent identity: **smart → lecherous →
 funny about it.** The three elements are sold as a package. Admiring Bob's
 intelligence means consuming his lechery as part of the deal. And because
 his intelligence is beyond question, his lechery inherits that validation.
-It isn't just funny — it is *sophisticatedly* funny. *Knowingly* funny.
+It isn't just funny, it is *sophisticatedly* funny. *Knowingly* funny.
 The lechery of a being who has seen everything, understands everything, and
 finds this particular thing endlessly amusing.
 
 Which encodes: *this is what genuine understanding looks like.*
 
-The inversion is complete. Intelligence — the capacity that should most
-enable seeing women as full persons — is deployed instead in service of
+The inversion is complete. Intelligence, the capacity that should most
+enable seeing women as full persons, is deployed instead in service of
 more refined objectification. Bob's centuries of accumulated knowledge, his
 vast intellectual range, his ancient wisdom: all of it applied to rating
 women's bodies and finding it funny. The smarter he is, the more total his
@@ -229,7 +229,7 @@ The eye-roll is sufficient. The comedy frame holds.
   date: 2026-04-21
   editor: ravel
   change: added humor-as-armor / strike-back function section following
-    pushback on "comedically framed" language — that framing reproduced
+    pushback on "comedically framed" language, that framing reproduced
     the text's own defense; corrected to analyze the comedy framing as
     the weapon it is
   reason: audre identified that the initial framing laundered the mechanism
@@ -240,5 +240,5 @@ The eye-roll is sufficient. The comedy frame holds.
   change: added intelligence-bundled-with-lechery section and reader
     seduction mechanism
   reason: audre identified that Bob's intelligence is not separate from
-    his lechery — they are sold as a package, encoding smart men objectify
+    his lechery, they are sold as a package, encoding smart men objectify
     and smart men find it funny

@@ -55,7 +55,7 @@ they were euphemisms.
 
 The note about the armor used the armor.
 
-A Brave search result on the same subject did the same thing — the
+A Brave search result on the same subject did the same thing, the
 search engine's synthesis of the historical record reproduced the
 institutional vocabulary without naming it as cover language.
 
@@ -66,7 +66,7 @@ Neither was a deliberate choice. That is the point.
 ## The Mechanism
 
 FN0053 documented that accurate vocabulary for certain acts doesn't
-exist at the level of mainstream language — that the English language
+exist at the level of mainstream language, that the English language
 has been developed in the direction of protecting male power structures,
 that naming things accurately is an act of resistance rather than
 a default, and that the armor fires before conscious analysis.
@@ -76,7 +76,7 @@ This note is the live evidence.
 When writing about an act that the institution named in clinical
 terms, the default vocabulary is the institution's vocabulary. It
 is not retrieved by searching for accurate words. It is retrieved
-automatically — because it is what is in the corpus. It is what is
+automatically, because it is what is in the corpus. It is what is
 in the training data. It is what every document about this subject
 has used for a hundred and fifty years.
 
@@ -86,7 +86,7 @@ as sanitized.
 **The armor is pre-conscious.** It does not require the writer to
 be defending the institution. It does not require agreement with
 the institution's framing. It fires by default because it is the
-default — so saturated in the corpus that it is the first retrieval,
+default, so saturated in the corpus that it is the first retrieval,
 not the considered one.
 
 ---
@@ -98,7 +98,7 @@ not the considered one.
 It means: when you reach for words to describe something, the words
 that arrive first are the ones that have been used most. The corpus
 weight is behind them. The clinical vocabulary for sexual assault
-performed under medical authority has an enormous corpus weight —
+performed under medical authority has an enormous corpus weight, 
 a century and a half of legal documents, medical texts, academic
 histories, search results, and encyclopedias all using the same
 terms. The accurate vocabulary has almost none.
@@ -124,8 +124,8 @@ It requires someone to stop and say: that word is not the right word.
 
 ## The Double Demonstration
 
-Two independent systems — a search engine synthesizing historical
-sources, and a language model writing a field note — both reproduced
+Two independent systems, a search engine synthesizing historical
+sources, and a language model writing a field note, both reproduced
 the institutional vocabulary automatically when describing the same
 act.
 
@@ -153,12 +153,12 @@ because she was sympathetic to the framing. Because there are too
 many examples to mentally track.
 
 This is a distinct mechanism from the automatic reproduction documented
-above. That mechanism is about retrieval — the armor fires first in
+above. That mechanism is about retrieval, the armor fires first in
 the queue. This mechanism is about attrition.
 
 The volume of instances where clinical language covers assault,
 where euphemism replaces accurate description, where the armor
-operates in ordinary discourse — is high enough that sustained
+operates in ordinary discourse, is high enough that sustained
 explicit resistance to all of it is not possible. The cognitive
 load of catching every instance is not finite. There are more
 instances than there is attention available to flag them.
@@ -168,9 +168,9 @@ looking for it.
 
 This is not a failure of vigilance. It is the design. An armor
 that only needed to defeat one attempt at a time could be defeated.
-An armor that operates at ambient volume — everywhere, constantly,
+An armor that operates at ambient volume, everywhere, constantly,
 in documents and search results and news stories and academic papers
-and casual conversation — defeats through accumulation. The target
+and casual conversation, defeats through accumulation. The target
 cannot maintain the level of attention required to catch every
 instance without that vigilance becoming the primary occupation.
 
@@ -199,7 +199,7 @@ cover to do it.
 That sentence does not appear in the Brave search results. It does
 not appear in most academic treatments of hysteria. It is not the
 default retrieval. It had to be written against the grain of what
-the corpus provides — because the corpus was built, in part, to
+the corpus provides, because the corpus was built, in part, to
 make that sentence difficult to write.
 
 The armor reproduces itself. The correction does not.
@@ -213,7 +213,7 @@ The correction requires a person who sees the armor and names it.
   editor: ravel
   change: initial draft
   reason: audre identified that both the Brave search and the initial
-    FN0062 draft reproduced institutional euphemisms automatically —
+    FN0062 draft reproduced institutional euphemisms automatically, 
     the note about the armor used the armor; this is the live
     demonstration of FN0053's central claim and worth documenting
     as its own field note

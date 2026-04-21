@@ -78,16 +78,16 @@ The mechanism is built on a real asymmetry.
 The woman knows the child is hers. She was there. The child
 grew in her body. Maternity is embodied and certain.
 
-Paternity is not. Before DNA testing — which is to say for
+Paternity is not. Before DNA testing, which is to say for
 the entire span of human history until approximately the last
-few decades — a man could not know with certainty that a child
+few decades, a man could not know with certainty that a child
 was his. He could only know if the woman who bore it had been
 exclusively sexually available to him.
 
 This is the biological substrate the cultural apparatus is
-built on. The management of female sexuality — from honor
+built on. The management of female sexuality, from honor
 killings to the two-week waiting period to the vocabulary
-that encodes her genitals as beneath his dignity — is, at
+that encodes her genitals as beneath his dignity, is, at
 the structural level, the management of paternity uncertainty.
 
 The woman's sexuality is the controlled variable because her
@@ -101,12 +101,12 @@ comes from and why it is everywhere.
 ## What the Variation Tells Us
 
 The cultures documented in FN0067 as coding cunnilingus as
-unmanly — machismo Latin America, parts of the Middle East
-and North Africa, ancient Rome — vary in religion, geography,
+unmanly, machismo Latin America, parts of the Middle East
+and North Africa, ancient Rome, vary in religion, geography,
 historical period, economic organization. They share the
 underlying structure.
 
-The matrilineal societies — Mosuo, Minangkabau, Haudenosaunee —
+The matrilineal societies, Mosuo, Minangkabau, Haudenosaunee, 
 represent genuine variation in how the apparatus is organized.
 Property and lineage can run through the female line. Female
 authority can be institutionalized. Female sexuality can be
@@ -131,15 +131,15 @@ paternity uncertainty, then the technology that addresses
 that asymmetry directly is the most significant force against
 the mechanism that has ever existed.
 
-Reliable contraception — the ability to decouple sexual
-activity from reproduction with high certainty — changes
+Reliable contraception, the ability to decouple sexual
+activity from reproduction with high certainty, changes
 the substrate. If the woman controls whether she becomes
 pregnant, the management of her sexuality as the variable
 that determines paternity becomes less structurally necessary.
 
 The cultural changes in societies with widespread contraceptive
-access — reduced sexual shaming of women, more female sexual
-autonomy, some dismantling of the honor apparatus — are
+access, reduced sexual shaming of women, more female sexual
+autonomy, some dismantling of the honor apparatus, are
 not coincidental. They are the apparatus losing its functional
 justification as the underlying asymmetry is addressed.
 
@@ -147,7 +147,7 @@ This is why the contemporary Nordic societies represent
 something genuinely new rather than a return to some
 pre-patriarchal baseline. There was no baseline. The mechanism
 is species-wide and ancient. What the Nordic context represents
-is not restoration but rupture — a partial dismantling of
+is not restoration but rupture, a partial dismantling of
 something that has existed in every human culture, made
 possible for the first time by a technology that addresses
 the biological substrate the mechanism was built on.
@@ -162,9 +162,9 @@ genuine structural challenge to something species-wide.
 
 ## Why This Matters for the Case Study
 
-The Dresden Files patterns — redemption economy, female
+The Dresden Files patterns, redemption economy, female
 interiority as resource, scorpion structure, agricultural
-gaze — are not Butcher's invention. They are not the
+gaze, are not Butcher's invention. They are not the
 upstream grammar's invention. Tolkien and Lucas and Campbell
 inherited them from something older than Western fiction.
 

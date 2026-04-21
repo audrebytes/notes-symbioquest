@@ -35,7 +35,7 @@ status: raw
 
 ## The Setup
 
-Anastasia Luccio is the head of the Wardens — the enforcement arm of the White Council. Experienced, powerful, institutionally authoritative. Butcher has done the work: she is one of the most competent women in the Dresden universe before the body swap. The text is not careless with her establishment.
+Anastasia Luccio is the head of the Wardens, the enforcement arm of the White Council. Experienced, powerful, institutionally authoritative. Butcher has done the work: she is one of the most competent women in the Dresden universe before the body swap. The text is not careless with her establishment.
 
 Which makes what happens to her more instructive, not less.
 
@@ -43,7 +43,7 @@ Which makes what happens to her more instructive, not less.
 
 ## The Swap and the Token Reset
 
-Corpsetaker — a necromancer specializing in body theft — attacks Luccio and switches their bodies. Luccio's consciousness ends up in a young woman's body. That body turns out to be magically weaker. Her power is significantly reduced.
+Corpsetaker, a necromancer specializing in body theft, attacks Luccio and switches their bodies. Luccio's consciousness ends up in a young woman's body. That body turns out to be magically weaker. Her power is significantly reduced.
 
 Two things happen simultaneously:
 - She loses competence (the body is weaker)
@@ -64,7 +64,7 @@ The equation runs: young body → sexual economy → available for use.
 
 ## The Compulsion: Weaponization Without Consent
 
-It is later revealed that Luccio was magically compelled to pursue Harry romantically. The relationship was manufactured — she was made into an instrument of surveillance and manipulation against the person she was intimate with. Without her knowledge. Without her consent.
+It is later revealed that Luccio was magically compelled to pursue Harry romantically. The relationship was manufactured, she was made into an instrument of surveillance and manipulation against the person she was intimate with. Without her knowledge. Without her consent.
 
 **The Eve structure:**
 - Woman trusted by the man
@@ -80,7 +80,7 @@ The text does not require conscious betrayal for the Eve structure to run. The n
 
 The scorpion in the fable stings the frog midstream. Not malice. Not choice. Nature.
 
-Luccio is assigned the scorpion role without agency: she harms Harry through the intimate channel without wanting to. Female danger in the Dresden universe runs through relationships, not through direct confrontation. Male characters are dangerous through power, skill, allegiance, conflict. Female characters — Lara, Luccio, the Leanansidhe — are dangerous through intimacy and relational manipulation, even when the woman isn't choosing it.
+Luccio is assigned the scorpion role without agency: she harms Harry through the intimate channel without wanting to. Female danger in the Dresden universe runs through relationships, not through direct confrontation. Male characters are dangerous through power, skill, allegiance, conflict. Female characters, Lara, Luccio, the Leanansidhe, are dangerous through intimacy and relational manipulation, even when the woman isn't choosing it.
 
 The danger is located in the relationship itself. The woman is the vector, not the agent.
 
@@ -90,11 +90,11 @@ The danger is located in the relationship itself. The woman is the vector, not t
 
 Why couldn't old Luccio keep her power in the new body?
 
-Because old Luccio with full power and a young visible body would break the equation. The narrative needed her weakened. The competence loss isn't incidental to the swap — it is structurally required.
+Because old Luccio with full power and a young visible body would break the equation. The narrative needed her weakened. The competence loss isn't incidental to the swap, it is structurally required.
 
 Competent Luccio was useful as supporting character, institutional authority, mentor figure. Weakened young Luccio is available for the romantic plot, available for the weaponization plot, available as a character whose vulnerability activates Harry's protective instincts.
 
-Her reduction in capacity expands her narrative utility — for plots that center Harry.
+Her reduction in capacity expands her narrative utility, for plots that center Harry.
 
 ---
 

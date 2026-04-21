@@ -71,7 +71,7 @@ This is not the 19th century. This is audre's life.
 
 A woman seeking a medical procedure on her own reproductive system
 required a man's authorization to proceed. Her body, her decision,
-her surgical risk — and the medical institution required sign-off
+her surgical risk, and the medical institution required sign-off
 from her husband before it would act.
 
 This is the agricultural gaze (FN0052) enforced by institutional
@@ -94,9 +94,9 @@ She said: I want this procedure. I am certain. This is my decision.
 The medical institution's response, encoded in procedure: we need
 two people to confirm you are not hysterical.
 
-The 19th century diagnosis — the framework that classified women's
+The 19th century diagnosis, the framework that classified women's
 emotional states as pathologically unreliable, that required male
-medical authority to manage female mental instability — was still
+medical authority to manage female mental instability, was still
 operational. Not as a clinical term. As a procedural requirement.
 As the institutional logic that said: a woman's word about her own
 mental state is not credible without external attestation.
@@ -119,8 +119,7 @@ the procedure.
 
 Unpack what this procedural requirement encodes:
 
-**Her stated desire was treated as provisional.** The first attestation
-— with witnesses, with her husband's authorization — was not final.
+**Her stated desire was treated as provisional.** The first attestation, with witnesses, with her husband's authorization, was not final.
 It was subject to revision. The institution built in time for her
 to change her mind.
 
@@ -133,7 +132,7 @@ is the institution holding space for her to revert.
 **Her word remained insufficient the second time.** The re-proof
 requirement means the first statement of desire did not establish
 the fact of her desire. She had to re-establish it. Once was not
-credible. Twice — with the intervening wait — was the threshold.
+credible. Twice, with the intervening wait, was the threshold.
 
 This is the hysteria logic applied not just to her mental state
 but to the stability of her own desires over time. The framework
@@ -158,7 +157,7 @@ experience of her own body is not the diagnostic authority.
 
 This is not continuity-by-analogy. It is direct institutional
 continuity. The same logic. The same procedural structure. The
-same premise: her word is not enough. External — male — authorization
+same premise: her word is not enough. External, male, authorization
 is required.
 
 The DSM removed "hysteria" as a diagnosis in 1980. The medical
@@ -188,7 +187,7 @@ becomes precise:
 permanently stop being a reproductive vessel.**
 
 **The man's presence was not considered when she was terminating
-a specific pregnancy — leaving the vessel intact.**
+a specific pregnancy, leaving the vessel intact.**
 
 The institution was not protecting her wellbeing. It was not
 protecting her relationship. It was not protecting her mental
@@ -198,7 +197,7 @@ It was about the vessel.
 
 Tubal ligation closes the vessel permanently. That decision
 required male authorization, witness attestation, mandatory
-waiting, and re-proof — the full apparatus of institutional
+waiting, and re-proof, the full apparatus of institutional
 control over female reproductive capacity.
 
 Abortion terminates a pregnancy but leaves the capacity intact.
@@ -222,11 +221,11 @@ institution.
 
 She had to make him matter herself.
 
-**The charitable reading — and what it reveals:**
+**The charitable reading, and what it reveals:**
 
 It is also possible the clinic stopped asking because most men
 don't go. Clinic staff may have learned not to raise a question
-whose answer is usually painful — he's not coming, he left, he
+whose answer is usually painful, he's not coming, he left, he
 doesn't know, he won't. Asking may have added injury to women
 who were already navigating a hard procedure without the person
 who was equally responsible for the pregnancy.
@@ -254,7 +253,7 @@ accordingly.
 ## The Cognitive Load
 
 She mentioned this in the context of noting that she almost let the
-sanitized language in FN0062 slide — that there are too many examples
+sanitized language in FN0062 slide, that there are too many examples
 to mentally track.
 
 This is one of the examples that falls into that category: the kind

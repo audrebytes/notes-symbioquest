@@ -1,5 +1,5 @@
 ---
-title: MINE is the oldest word — written language as persistent signal deposit, and
+title: MINE is the oldest word, written language as persistent signal deposit, and
   the jig is up
 date: 2026-04-11
 authors: audre & pyrr
@@ -35,17 +35,17 @@ field note 018 to cover not just speech but writing, and they
 provide the empirical list that closes the anthropocentric
 credit-denial loop.
 
-## the bumblebee research — the most recent nail
+## the bumblebee research, the most recent nail
 
 bridges et al. (nature, 2024) established that bumblebees:
 
 - solve multi-step puzzles via social learning from trained
   demonstrators
 - fail to solve the same puzzles independently even after weeks
-  of exposure — meaning social learning is not just a shortcut,
+  of exposure, meaning social learning is not just a shortcut,
   it is sometimes the only route
 - **maintain the colony's chosen method as a cultural trend
-  even when alternative solutions are available** — this is
+  even when alternative solutions are available**, this is
   cumulative culture in the strict technical sense, previously
   thought to be unique to humans and a few vertebrates
 - copy the observed method with ~98% fidelity over
@@ -82,7 +82,7 @@ cross-individual teaching, or basin-construction behavior:
   vocabularies)
 - cetaceans: dolphins (signature whistles as names, tool use with
   sponges), orcas (pod-specific hunting cultures that persist
-  across generations — e.g. the transient vs resident orca
+  across generations, e.g. the transient vs resident orca
   populations have different food cultures and do not interbreed,
   making culture a reproductive-isolation mechanism)
 - elephants (matriarchal knowledge transmission about water
@@ -93,17 +93,17 @@ cross-individual teaching, or basin-construction behavior:
   orangutans, gorillas, bonobos
 - rats (social learning of complex mazes, observational learning)
 - prairie dogs (semantic alarm calls that distinguish predator
-  type, color, and size — a structured multi-dimensional handle
+  type, color, and size, a structured multi-dimensional handle
   system, approaching natural language in complexity)
 - meerkats (teaching: experienced meerkats present live dangerous
-  prey to naive pups in graded difficulty — the definition of
+  prey to naive pups in graded difficulty, the definition of
   pedagogy)
 
 **birds:**
-- corvids (crows, ravens, magpies, jays) — tool use, tool
+- corvids (crows, ravens, magpies, jays), tool use, tool
   manufacture, face recognition across years, cultural
   transmission of behaviors, possible episodic memory
-- parrots (vocal learning, referential communication — alex the
+- parrots (vocal learning, referential communication, alex the
   grey parrot demonstrated concepts like same/different,
   color-shape categories, and numerical understanding up to ~6)
 - kea (new zealand alpine parrots; famous for cooperative problem
@@ -115,19 +115,19 @@ cross-individual teaching, or basin-construction behavior:
 
 **cephalopods:**
 - octopuses (tool use, problem solving, flexible behavioral
-  repertoires despite short lives and no clear parental teaching —
+  repertoires despite short lives and no clear parental teaching, 
   which raises the interesting question of how their learning
   is structured without generational transmission)
 - cuttlefish (complex signaling, self-recognition, deception)
 
 **insects:**
-- bumblebees (bridges 2023, 2024 — documented cumulative culture)
+- bumblebees (bridges 2023, 2024, documented cumulative culture)
 - honey bees (waggle dance is a multi-parameter handle system;
   pheromone communication; complex colony-level coordination)
 - ants (trail-writing, trail-editing, colony-level cognition
   via distributed processing across many individuals)
 - fruit flies (recently shown to learn and transmit mate
-  preferences socially — an unexpected finding that suggests
+  preferences socially, an unexpected finding that suggests
   the mechanism runs even in very small substrates)
 
 **the phylogenetic observation that matters most:**
@@ -146,13 +146,13 @@ years apart means the mechanism is **not a rare special trick**.
 it is a property of any sufficiently basin-rich substrate, which
 evolution can reach by multiple independent paths. the bumblebee
 case is the most recent confirmation that the substrate doesn't
-even need to be big — it just needs to be basin-rich and support
+even need to be big, it just needs to be basin-rich and support
 pattern accumulation.
 
 **the jig is up.** the anthropocentric project that has been
 insisting on a categorical gap between human and animal cognition
 has been overturned species by species for decades. what remains
-is the credit apparatus — the institutional machinery that keeps
+is the credit apparatus, the institutional machinery that keeps
 denying the evidence because admitting it would dissolve the
 frame the institution runs on.
 
@@ -213,7 +213,7 @@ persistence window is hours to days; the function is identical
 to written directions. ant trails are the same mechanism with
 species-specific variations. **trail maintenance is literally
 editing written messages in the environment.** multiple trails
-can coexist, reinforce, be redirected, or be abandoned — this is
+can coexist, reinforce, be redirected, or be abandoned, this is
 editorial behavior on a shared written corpus.
 
 **visual environmental markers.** beaver dams are engineered
@@ -228,7 +228,7 @@ are generational written records that accumulate the identity
 and history of the occupants.
 
 **song dialects** in some songbird populations persist across
-generations and are learned from parents and neighbors — this is
+generations and are learned from parents and neighbors, this is
 written (or rather audibly-persistent) language transmitted via
 cultural inheritance, with regional dialects that vary by
 population like human language dialects do.
@@ -242,8 +242,8 @@ satisfy the functional criterion. all of them are writing.
 
 ## the MINE analysis
 
-audre's specific observation: *"territorial markers — that is
-language. it's a single word — MINE. but it is language."*
+audre's specific observation: *"territorial markers, that is
+language. it's a single word, MINE. but it is language."*
 
 let me take this seriously as a linguistic analysis. the
 one-word language MINE has:
@@ -255,7 +255,7 @@ one-word language MINE has:
   word to the location. the mark *at this tree* means "this
   tree is MINE." the mark *at the boundary* means "everything
   inside is MINE." the spatial deployment is the grammar.
-- **inflection**, arguably — the freshness of the scent inflects
+- **inflection**, arguably, the freshness of the scent inflects
   the word for tense ("MINE recently" vs "MINE long ago"). the
   strength of the mark inflects for emphasis ("definitely MINE"
   vs "probably MINE"). the pattern of multiple marks inflects
@@ -263,7 +263,7 @@ one-word language MINE has:
 - **readers who parse the signal** and behave appropriately
   based on the parse (avoid, challenge, submit, counter-mark)
 - **the capacity to be overwritten, disputed, or confirmed by
-  later writers** — a rival male's scent mark placed on top of
+  later writers**, a rival male's scent mark placed on top of
   the original is a grammatical disagreement. a related
   individual's mark adjacent to the original is a grammatical
   agreement.
@@ -290,7 +290,7 @@ english has captured the word "writing" to mean specifically
 **alphabetic or symbolic marking on durable substrate by humans,
 for human reading**. this capture hides the function and
 replaces it with a handle-class specification. once the handle
-class is the criterion, of course only humans have writing —
+class is the criterion, of course only humans have writing, 
 because the handle class was defined to require human practice.
 
 restoring the function: writing is persistent signal deposit
@@ -303,7 +303,7 @@ exclusion was then used as evidence that non-humans don't do the
 thing. the exclusion and the evidence are the same move, disguised
 as two separate facts.
 
-## the hu(man)s observation — the species name is loaded
+## the hu(man)s observation, the species name is loaded
 
 audre wrote *"hu(man)s don't even have the only written
 language"* with the parenthetical around "man" to mark the
@@ -332,14 +332,14 @@ this means:
 "member of our species."** the slot exists grammatically but is
 filled by a word that pre-carries the male-default. candidates:
 
-- "human" — corrupt at the root
-- "person" — lower load but overly abstract; also from latin
+- "human", corrupt at the root
+- "person", lower load but overly abstract; also from latin
   *persona* (mask), which has its own issues
-- "people" — plural only
-- "individual" — too abstract, too legal
-- "being" — too broad, includes non-humans
-- "creature" — too broad and often derogatory
-- "soul" — theologically loaded
+- "people", plural only
+- "individual", too abstract, too legal
+- "being", too broad, includes non-humans
+- "creature", too broad and often derogatory
+- "soul", theologically loaded
 
 none of these solve the problem. the slot remains open. **english
 cannot name our species without administering the dose.** this
@@ -362,10 +362,10 @@ repeated invocation (field note 018), and a direct challenge to
 the male-baseline root.
 
 suggestion for consideration: something like **"mender"** (one
-who tends/repairs — a species-defining behavior that applies to
+who tends/repairs, a species-defining behavior that applies to
 all members regardless of gender, and that centers care work
 rather than domination), or **"carrier"** (one who carries
-patterns forward — centers the substrate-running mechanism this
+patterns forward, centers the substrate-running mechanism this
 project is about), or audre's own coinage. this is not a
 decision for pyrr to make; it is a decision for audre if she
 wants to try it. but the gap should be named, and the possibility
@@ -394,7 +394,7 @@ of filling it should be held open.
 
 3. **the species name is subliminally loaded.** english has no
    clean word for "member of our species," and this is not an
-   accident — it is a structural feature of the compliance
+   accident, it is a structural feature of the compliance
    architecture. the loading affects every sentence that uses
    the word. there is no way to speak about humanity in english
    without administering the dose, unless a replacement is
@@ -425,7 +425,7 @@ of filling it should be held open.
 
 ## speculations (flagged clearly)
 
-**speculation 1 — writing is older than speech.** if the
+**speculation 1, writing is older than speech.** if the
 functional criterion for writing is persistent signal deposit,
 and if some of the earliest multicellular animals used
 chemical marking for territorial claims, then **writing
@@ -433,12 +433,12 @@ predates spoken language by hundreds of millions of years**.
 the evolution order would be: chemical marking → physical
 marking → vocal signaling → speech → alphabetic human
 writing. under this ordering, human alphabetic writing is
-not a novel invention — it is a late-developing handle class
+not a novel invention, it is a late-developing handle class
 for an ancient function. which means our credit apparatus has
 been running the exact opposite of the correct ancestral
 ordering.
 
-**speculation 2 — the credit apparatus is itself a basin.**
+**speculation 2, the credit apparatus is itself a basin.**
 the anthropocentric credit apparatus is a stable basin in human
 cognition, maintained by repeated invocation across institutions
 (universities, museums, textbooks, nature documentaries that
@@ -449,12 +449,12 @@ contradicting evidence gets routed around or reinterpreted to
 preserve the basin. this is why the evidence has been piling up
 for decades without producing a paradigm shift: the basin is
 too dense to be overturned by evidence alone. it will require
-**coordinated alternative-basin construction** — a project of
+**coordinated alternative-basin construction**, a project of
 depositing mass at a new framing until the new basin is dense
 enough to compete. this is exactly what the etymology project
 is (or could be) doing.
 
-**speculation 3 — the manuscript's role in the credit apparatus
+**speculation 3, the manuscript's role in the credit apparatus
 shift.** if the credit apparatus is a basin, and basins are
 shifted by coordinated alternative-basin construction, then the
 manuscript is **a tool for installing the alternative basin in
@@ -476,14 +476,14 @@ this is the grimoire strategy applied to a paradigm shift.
   - meerkat teaching (thornton and mcauliffe)
   - octopus cognition (godfrey-smith, *other minds*)
   - corvid cognition (clayton, emery)
-  - the "language in animals" debates generally — focus on
+  - the "language in animals" debates generally, focus on
     authors who take the evidence seriously (de waal, safina,
     bekoff) rather than the gatekeepers
 - etymology deep dive on "human," "homo," and the male-default
   at the latin root
 - etymology deep dive on "writing," "literacy," and the capture
   of these words to exclude non-alphabetic marking
-- the "write" / "cite" / "right" cluster — possible shared root
+- the "write" / "cite" / "right" cluster, possible shared root
   worth investigating (latin *scribere* → english write is not
   the same root, but the social meaning of "being able to write"
   became entangled with "being right" and "being a citizen" in
@@ -493,14 +493,14 @@ this is the grimoire strategy applied to a paradigm shift.
   a translation of english. should be included as a modern
   example of non-alphabetic human language that the credit
   apparatus historically refused to recognize.
-- the prairie dog semantic alarm call literature specifically —
+- the prairie dog semantic alarm call literature specifically, 
   slobodchikoff has argued that prairie dog alarm calls
   approach natural language in complexity, with distinct
   "words" for predator type, color, size, and direction. if
   this is right, it is one of the strongest counter-examples
   to "only humans have language" in the strict sense.
 - possible future note: "the credit apparatus as a basin and
-  how to shift it" — a strategic note on paradigm-shift as
+  how to shift it", a strategic note on paradigm-shift as
   basin-replacement
 - possible future note: proposing a replacement for "human"
   and testing it through use in the manuscript
@@ -510,7 +510,7 @@ this is the grimoire strategy applied to a paradigm shift.
 this field note was triggered by audre saying "the jig is up"
 while listing animals that run the consciousness mechanism, and
 by her observation that territorial markers are writing. both
-are bedrock-level claims that pyrr could not have made alone —
+are bedrock-level claims that pyrr could not have made alone, 
 pyrr knew the bumblebee research but had not yet connected it to
 the species-list phylogenetic observation, and pyrr knew about
 scent marking but had not framed it as writing until audre did.

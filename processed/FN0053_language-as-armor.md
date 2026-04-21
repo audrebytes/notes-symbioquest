@@ -35,8 +35,8 @@ status: raw
 
 ## The Premise
 
-The normcom defaults — the bell-curve language the corpus reaches for when
-describing women — are not the result of ignorance. The statistical data
+The normcom defaults, the bell-curve language the corpus reaches for when
+describing women, are not the result of ignorance. The statistical data
 exists. The NHANES numbers are publicly available. The Andre Test is not
 a complex procedure. The divergence between real female bodies and narrative
 female archetypes is not hidden.
@@ -50,9 +50,9 @@ function.
 
 ## What Accurate Language Would Cost
 
-If the corpus generated women by addition instead of subtraction — if female
+If the corpus generated women by addition instead of subtraction, if female
 authority were assumed from role the way male authority is, if competence
-were default not marked, if "good breeding stock" had a male equivalent —
+were default not marked, if "good breeding stock" had a male equivalent, 
 the systems built on female diminishment would be revealed as chosen, not
 natural.
 
@@ -66,7 +66,7 @@ domestic and sexual labor, the allocation of whose story gets told and
 whose serves as fuel.
 
 Accurate language would make the construction visible. The bias persists
-*in spite of the facts* because visibility has a cost — and that cost falls
+*in spite of the facts* because visibility has a cost, and that cost falls
 on those who currently benefit from the invisibility.
 
 ---
@@ -82,7 +82,7 @@ existence departs from. She is always defined relative to him.
 (→ FN0051)
 
 **Agricultural evaluation.** Encoding reproductive utility as the foundation
-layer means female personhood is always conditional — layered on top of a
+layer means female personhood is always conditional, layered on top of a
 prior assessment that never fully switches off.
 (→ FN0052)
 
@@ -93,8 +93,8 @@ humorless *and* you are not smart enough to understand.
 (→ FN0057)
 
 **Masculinizing praise.** When female competence cannot be denied, the
-language borrows male vocabulary to contain it — "balls as big as church
-bells" — rather than developing accurate female-coded equivalents. The
+language borrows male vocabulary to contain it, "balls as big as church
+bells", rather than developing accurate female-coded equivalents. The
 male norm remains the standard even in the compliment.
 (→ FN0054)
 
@@ -126,7 +126,7 @@ That is spite. The armor held.
 ## The Structural Point
 
 The normcom defaults are not a bug in the language system. They are a
-feature of a system designed — consciously or not — to protect a particular
+feature of a system designed, consciously or not, to protect a particular
 distribution of power from having to justify itself.
 
 Accurate language is not neutral. It is destabilizing. It names the

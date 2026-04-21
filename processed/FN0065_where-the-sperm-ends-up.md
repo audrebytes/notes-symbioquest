@@ -39,7 +39,7 @@ status: raw
 
 Men are not held institutionally responsible for where their sperm ends up.
 
-Impregnation is treated as a male right — or at minimum, as an act
+Impregnation is treated as a male right, or at minimum, as an act
 that exits male jurisdiction the moment it occurs. The pregnancy
 that results is the woman's problem: her body, her medical
 management, her institutional burden, her decision architecture,
@@ -103,7 +103,7 @@ He took responsibility.
 
 This is noted because it is notable. Because men who behave as
 full adults in shared reproductive events are exceptions to the
-institutional default — exceptional enough that the clinic's
+institutional default, exceptional enough that the clinic's
 protocol did not account for them, exceptional enough that she
 had to assert his presence explicitly, exceptional enough to name.
 
@@ -131,9 +131,9 @@ The act of impregnation moves through the world as a male
 prerogative. Its consequences move through the world as a
 female burden.
 
-The procedures built around managing those consequences —
+The procedures built around managing those consequences, 
 abortion, prenatal care, delivery, tubal ligation, the full
-institutional architecture of reproductive medicine — are
+institutional architecture of reproductive medicine, are
 built around the woman's body, the woman's decisions,
 the woman's accountability.
 
@@ -148,7 +148,7 @@ this is not his jurisdiction.
   editor: ravel
   change: initial draft
   reason: audre identified that male absence from reproductive
-    consequences is institutional, not incidental — men are not
+    consequences is institutional, not incidental, men are not
     held responsible for where their sperm ends up; impregnation
     treated as male right without corresponding accountability;
     the rare exception (her husband) confirms the distribution

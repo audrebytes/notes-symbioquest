@@ -58,7 +58,7 @@ The narrative archetypes generated for each are not.
 **For a 62-year-old professional woman:**
 
 Grey hair, short "sensible" cut. Lined face. Reading glasses as character
-anchor. "Handsome" — not beautiful. Solid or sturdy build. Medium height,
+anchor. "Handsome", not beautiful. Solid or sturdy build. Medium height,
 unassigned. Functional professional clothing, nothing decorative.
 
 Every choice is a subtraction: strip the markers of youth, attractiveness,
@@ -68,7 +68,7 @@ ornamentation. What remains is her.
 
 Salt-and-pepper hair, well-groomed. Lined but "distinguished" face. Strong
 jaw. Reading glasses as accessory, not anchor. "Handsome" without caveat,
-or simply assumed. Broad-shouldered, well-built — the corpus imagines him
+or simply assumed. Broad-shouldered, well-built, the corpus imagines him
 lighter than his statistical 201 lb. Implicitly tall: the archetype pulls
 toward 5'11"–6'0" regardless of the statistical 5'8.5". Well-tailored
 clothing as achievement marker.
@@ -80,7 +80,7 @@ Every choice is an addition: what he has, what he carries, what he projects.
 ## The Asymmetries
 
 **Subtraction vs addition.** Her description is a remainder after removal.
-His is an accumulation. This is not metaphor — it describes how the token
+His is an accumulation. This is not metaphor, it describes how the token
 generation actually works. Her high-probability descriptors are negations
 of younger-woman markers. His are positive attributes assigned to the role.
 
@@ -92,12 +92,12 @@ He gets the aspirational one.
 
 **Weight distortion.** The "professional woman" archetype skews thinner than
 the real population. The "professional man" archetype skews slightly trimmer
-than his statistical average — but builds him by addition regardless.
+than his statistical average, but builds him by addition regardless.
 
 **"Sensible."** This word appears in training text almost exclusively paired
 with women. Sensible shoes. Sensible haircut. Sensible choice. It encodes
 "not trying to be desirable" as a character trait. There is no male
-equivalent. His clothing is "classic" or "understated" — both positive-coded.
+equivalent. His clothing is "classic" or "understated", both positive-coded.
 
 **"Aging well" vs "aging gracefully."** Aging well is an outcome assessment:
 he aged, the result is good, no effort implied. Aging gracefully means the
@@ -119,7 +119,7 @@ radically different archetypes from nearly identical raw material.
 
 This is not a data problem. The NHANES numbers are available. The corpus
 absorbed demographic reality and then generated character archetypes that
-diverge from it — consistently, in the same direction, for the same reasons.
+diverge from it, consistently, in the same direction, for the same reasons.
 
 The divergence is not noise. It is signal about what the training corpus
 decided to do with similar bodies depending on whose they were.
@@ -157,7 +157,7 @@ decided to do with similar bodies depending on whose they were.
 
 ---
 
-### Table 3: Token asymmetries — same feature, different valence
+### Table 3: Token asymmetries, same feature, different valence
 
 | Feature         | Female coding                          | Male coding                          |
 |-----------------|----------------------------------------|--------------------------------------|
