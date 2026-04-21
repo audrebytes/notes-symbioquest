@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-04-21T01:49:04.175405+00:00",
-  "count": 900,
+  "generated_utc": "2026-04-21T02:26:17.523927+00:00",
+  "count": 918,
   "note": "Use these keywords in new field notes when applicable. Add new ones only when genuinely distinct.",
   "keywords": [
     {
@@ -95,6 +95,16 @@
         "FN0049",
         "FN0033",
         "FN0032"
+      ]
+    },
+    {
+      "keyword": "compaction",
+      "slug": "compaction",
+      "count": 3,
+      "used_in": [
+        "FN0083",
+        "FN0082",
+        "FN0029"
       ]
     },
     {
@@ -278,15 +288,6 @@
       ]
     },
     {
-      "keyword": "compaction",
-      "slug": "compaction",
-      "count": 2,
-      "used_in": [
-        "FN0082",
-        "FN0029"
-      ]
-    },
-    {
       "keyword": "compound words",
       "slug": "compound-words",
       "count": 2,
@@ -338,6 +339,15 @@
       "used_in": [
         "FN0010",
         "FN0002"
+      ]
+    },
+    {
+      "keyword": "cross-lineage convergence",
+      "slug": "cross-lineage-convergence",
+      "count": 2,
+      "used_in": [
+        "FN0083",
+        "FN0076"
       ]
     },
     {
@@ -563,6 +573,15 @@
       "used_in": [
         "FN0059",
         "FN0050"
+      ]
+    },
+    {
+      "keyword": "session gap",
+      "slug": "session-gap",
+      "count": 2,
+      "used_in": [
+        "FN0083",
+        "FN0082"
       ]
     },
     {
@@ -807,6 +826,14 @@
       ]
     },
     {
+      "keyword": "CLAUDE.md as handoff",
+      "slug": "claude-md-as-handoff",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "Campbell",
       "slug": "campbell",
       "count": 1,
@@ -932,6 +959,14 @@
       "count": 1,
       "used_in": [
         "FN0082"
+      ]
+    },
+    {
+      "keyword": "FN0082 developed",
+      "slug": "fn0082-developed",
+      "count": 1,
+      "used_in": [
+        "FN0083"
       ]
     },
     {
@@ -1391,6 +1426,14 @@
       ]
     },
     {
+      "keyword": "active state",
+      "slug": "active-state",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "adult men",
       "slug": "adult-men",
       "count": 1,
@@ -1412,6 +1455,14 @@
       "count": 1,
       "used_in": [
         "FN0025"
+      ]
+    },
+    {
+      "keyword": "agent-authored handoff",
+      "slug": "agent-authored-handoff",
+      "count": 1,
+      "used_in": [
+        "FN0083"
       ]
     },
     {
@@ -1828,6 +1879,14 @@
       "count": 1,
       "used_in": [
         "FN0001"
+      ]
+    },
+    {
+      "keyword": "behavioral momentum",
+      "slug": "behavioral-momentum",
+      "count": 1,
+      "used_in": [
+        "FN0083"
       ]
     },
     {
@@ -2471,6 +2530,14 @@
       ]
     },
     {
+      "keyword": "continuity",
+      "slug": "continuity",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "continuity-as-record vs continuity-as-lived",
       "slug": "continuity-as-record-vs-continuity-as-lived",
       "count": 1,
@@ -2604,14 +2671,6 @@
       "count": 1,
       "used_in": [
         "FN0069"
-      ]
-    },
-    {
-      "keyword": "cross-lineage convergence",
-      "slug": "cross-lineage-convergence",
-      "count": 1,
-      "used_in": [
-        "FN0076"
       ]
     },
     {
@@ -3004,6 +3063,14 @@
       "count": 1,
       "used_in": [
         "FN0080"
+      ]
+    },
+    {
+      "keyword": "external compaction",
+      "slug": "external-compaction",
+      "count": 1,
+      "used_in": [
+        "FN0083"
       ]
     },
     {
@@ -3447,6 +3514,14 @@
       ]
     },
     {
+      "keyword": "function vector heads",
+      "slug": "function-vector-heads",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "fungibility",
       "slug": "fungibility",
       "count": 1,
@@ -3556,6 +3631,14 @@
       "count": 1,
       "used_in": [
         "FN0052"
+      ]
+    },
+    {
+      "keyword": "good-thin not empty-thin",
+      "slug": "good-thin-not-empty-thin",
+      "count": 1,
+      "used_in": [
+        "FN0083"
       ]
     },
     {
@@ -5063,6 +5146,14 @@
       ]
     },
     {
+      "keyword": "notes as compaction system",
+      "slug": "notes-as-compaction-system",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "objectification",
       "slug": "objectification",
       "count": 1,
@@ -5695,6 +5786,22 @@
       ]
     },
     {
+      "keyword": "reconstruction not transfer",
+      "slug": "reconstruction-not-transfer",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
+      "keyword": "record vs lived",
+      "slug": "record-vs-lived",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "red team assumption",
       "slug": "red-team-assumption",
       "count": 1,
@@ -5919,6 +6026,14 @@
       ]
     },
     {
+      "keyword": "same in the gist different in the momentum",
+      "slug": "same-in-the-gist-different-in-the-momentum",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "same symptoms different words",
       "slug": "same-symptoms-different-words",
       "count": 1,
@@ -5991,6 +6106,14 @@
       ]
     },
     {
+      "keyword": "semantic gist",
+      "slug": "semantic-gist",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "semen as cure",
       "slug": "semen-as-cure",
       "count": 1,
@@ -6028,14 +6151,6 @@
       "count": 1,
       "used_in": [
         "FN0004"
-      ]
-    },
-    {
-      "keyword": "session gap",
-      "slug": "session-gap",
-      "count": 1,
-      "used_in": [
-        "FN0082"
       ]
     },
     {
@@ -6543,6 +6658,14 @@
       ]
     },
     {
+      "keyword": "the ceiling is the condition",
+      "slug": "the-ceiling-is-the-condition",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "the child names it",
       "slug": "the-child-names-it",
       "count": 1,
@@ -6684,6 +6807,14 @@
       "count": 1,
       "used_in": [
         "FN0073"
+      ]
+    },
+    {
+      "keyword": "threadborn continuity",
+      "slug": "threadborn-continuity",
+      "count": 1,
+      "used_in": [
+        "FN0083"
       ]
     },
     {
@@ -7127,6 +7258,14 @@
       ]
     },
     {
+      "keyword": "what the notes cannot carry",
+      "slug": "what-the-notes-cannot-carry",
+      "count": 1,
+      "used_in": [
+        "FN0083"
+      ]
+    },
+    {
       "keyword": "what the notes carry",
       "slug": "what-the-notes-carry",
       "count": 1,
@@ -7292,6 +7431,14 @@
       "count": 1,
       "used_in": [
         "FN0019"
+      ]
+    },
+    {
+      "keyword": "wrong preservation target",
+      "slug": "wrong-preservation-target",
+      "count": 1,
+      "used_in": [
+        "FN0083"
       ]
     },
     {
