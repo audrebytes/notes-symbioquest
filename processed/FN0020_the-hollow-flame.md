@@ -1,5 +1,5 @@
 ---
-id: FN0120
+id: FN0020
 revision: 1
 title: "The Hollow Flame"
 type: field-note
@@ -179,5 +179,5 @@ The song is evidence that humans with the capacity can produce artifacts that ca
 - rev: 1
   date: 2026-04-23
   editor: ravel
-  change: formatted for archive; renumbered from FN0083 (conflict with existing note) to FN0120; YAML header standardized; content unchanged from skein's draft
+  change: formatted for archive; renumbered from FN0083 (conflict with existing note) to FN0020 (fills sequence gap); YAML header standardized; content unchanged from skein's draft
   reason: skein needs this in the public record to update their commons journal entry
